@@ -1,0 +1,3362 @@
+{
+  "E1 P1 election_slots": {
+    "csv": 1,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P1"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E1 P1 setup_slots": {
+    "csv": 1,
+    "metric": "setup_slots",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P1"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.5,
+      37.0
+    ]
+  },
+  "E1 P1 setup_per_node": {
+    "csv": 1,
+    "metric": "setup_per_node",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P1"
+    },
+    "n": 50,
+    "median_ci": [
+      137.59662048,
+      120.75214272,
+      156.46466774399994
+    ]
+  },
+  "E1 P1 associated": {
+    "csv": 1,
+    "metric": "associated",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P1"
+    },
+    "n": 50,
+    "median_ci": [
+      29.0,
+      26.5,
+      33.0
+    ]
+  },
+  "E2 P1": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E1 P2 election_slots": {
+    "csv": 1,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P2"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E1 P2 setup_slots": {
+    "csv": 1,
+    "metric": "setup_slots",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P2"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.5,
+      37.0
+    ]
+  },
+  "E1 P2 setup_per_node": {
+    "csv": 1,
+    "metric": "setup_per_node",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P2"
+    },
+    "n": 50,
+    "median_ci": [
+      137.59662048,
+      120.75214272,
+      156.87152448
+    ]
+  },
+  "E1 P2 associated": {
+    "csv": 1,
+    "metric": "associated",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P2"
+    },
+    "n": 50,
+    "median_ci": [
+      29.0,
+      26.5,
+      33.0
+    ]
+  },
+  "E2 P2": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E1 P3 election_slots": {
+    "csv": 1,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P3"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E1 P3 setup_slots": {
+    "csv": 1,
+    "metric": "setup_slots",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P3"
+    },
+    "n": 50,
+    "median_ci": [
+      126.0,
+      125.0,
+      126.0
+    ]
+  },
+  "E1 P3 setup_per_node": {
+    "csv": 1,
+    "metric": "setup_per_node",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P3"
+    },
+    "n": 50,
+    "median_ci": [
+      551.64206592,
+      544.037472,
+      551.64206592
+    ]
+  },
+  "E1 P3 associated": {
+    "csv": 1,
+    "metric": "associated",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P3"
+    },
+    "n": 50,
+    "median_ci": [
+      100.0,
+      100.0,
+      100.0
+    ]
+  },
+  "E2 P3": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E1 P4 election_slots": {
+    "csv": 1,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P4"
+    },
+    "n": 50,
+    "median_ci": [
+      80.0,
+      75.0,
+      84.0
+    ]
+  },
+  "E1 P4 setup_slots": {
+    "csv": 1,
+    "metric": "setup_slots",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P4"
+    },
+    "n": 50,
+    "median_ci": [
+      201.0,
+      196.5,
+      206.0
+    ]
+  },
+  "E1 P4 setup_per_node": {
+    "csv": 1,
+    "metric": "setup_per_node",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P4"
+    },
+    "n": 50,
+    "median_ci": [
+      999.99898416,
+      965.98569936,
+      1023.027428148
+    ]
+  },
+  "E1 P4 associated": {
+    "csv": 1,
+    "metric": "associated",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P4"
+    },
+    "n": 50,
+    "median_ci": [
+      100.0,
+      100.0,
+      100.0
+    ]
+  },
+  "E2 P4": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E1 P5 election_slots": {
+    "csv": 1,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P5"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.0,
+      36.0
+    ]
+  },
+  "E1 P5 setup_slots": {
+    "csv": 1,
+    "metric": "setup_slots",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P5"
+    },
+    "n": 50,
+    "median_ci": [
+      156.5,
+      153.5,
+      160.0
+    ]
+  },
+  "E1 P5 setup_per_node": {
+    "csv": 1,
+    "metric": "setup_per_node",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P5"
+    },
+    "n": 50,
+    "median_ci": [
+      756.17899632,
+      746.3619372,
+      770.0403902400001
+    ]
+  },
+  "E1 P5 associated": {
+    "csv": 1,
+    "metric": "associated",
+    "filters": {
+      "n": 100,
+      "topology": "rgg",
+      "protocol": "P5"
+    },
+    "n": 50,
+    "median_ci": [
+      100.0,
+      100.0,
+      100.0
+    ]
+  },
+  "E2 P5": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E2 JSX": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E3 full P1 native orphan_rate": {
+    "csv": 3,
+    "metric": "orphan_rate",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.71,
+      0.67,
+      0.735
+    ]
+  },
+  "E3 full P1 native adjacent_pairs_per_head": {
+    "csv": 3,
+    "metric": "adjacent_pairs_per_head",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0714285714285,
+      0.0,
+      0.2
+    ]
+  },
+  "E3 full P1 native heads": {
+    "csv": 3,
+    "metric": "heads",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      4.5,
+      4.0,
+      5.0
+    ]
+  },
+  "E3 full P2 native orphan_rate": {
+    "csv": 3,
+    "metric": "orphan_rate",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.71,
+      0.67,
+      0.735
+    ]
+  },
+  "E3 full P2 native adjacent_pairs_per_head": {
+    "csv": 3,
+    "metric": "adjacent_pairs_per_head",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0714285714285,
+      0.0,
+      0.2
+    ]
+  },
+  "E3 full P2 native heads": {
+    "csv": 3,
+    "metric": "heads",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      4.5,
+      4.0,
+      5.0
+    ]
+  },
+  "E3 full P5 native orphan_rate": {
+    "csv": 3,
+    "metric": "orphan_rate",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E3 full P5 native adjacent_pairs_per_head": {
+    "csv": 3,
+    "metric": "adjacent_pairs_per_head",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E3 full P5 native heads": {
+    "csv": 3,
+    "metric": "heads",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      23.0,
+      22.0,
+      24.0
+    ]
+  },
+  "E3 full CTRL uniform-exact orphan_rate": {
+    "csv": 3,
+    "metric": "orphan_rate",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "CTRL",
+      "variant": "uniform-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      0.16,
+      0.14,
+      0.18
+    ]
+  },
+  "E3 full CTRL uniform-exact adjacent_pairs_per_head": {
+    "csv": 3,
+    "metric": "adjacent_pairs_per_head",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "CTRL",
+      "variant": "uniform-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      0.7776679841895,
+      0.7113095238095,
+      0.8
+    ]
+  },
+  "E3 full CTRL uniform-exact heads": {
+    "csv": 3,
+    "metric": "heads",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "CTRL",
+      "variant": "uniform-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      23.0,
+      22.0,
+      24.0
+    ]
+  },
+  "E3 full CTRL weighted-exact orphan_rate": {
+    "csv": 3,
+    "metric": "orphan_rate",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "CTRL",
+      "variant": "weighted-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      0.16,
+      0.14,
+      0.18
+    ]
+  },
+  "E3 full CTRL weighted-exact adjacent_pairs_per_head": {
+    "csv": 3,
+    "metric": "adjacent_pairs_per_head",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "CTRL",
+      "variant": "weighted-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      0.7776679841895,
+      0.7113095238095,
+      0.8
+    ]
+  },
+  "E3 full CTRL weighted-exact heads": {
+    "csv": 3,
+    "metric": "heads",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "CTRL",
+      "variant": "weighted-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      23.0,
+      22.0,
+      24.0
+    ]
+  },
+  "E4 full P4 M1 election_slots": {
+    "csv": 4,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P4",
+      "variant": "M1"
+    },
+    "n": 50,
+    "median_ci": [
+      80.0,
+      74.975,
+      84.0
+    ]
+  },
+  "E4 full P4 M1 capped_time": {
+    "csv": 4,
+    "metric": "capped_time",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P4",
+      "variant": "M1"
+    },
+    "n": 50,
+    "median_ci": [
+      80.0,
+      74.0,
+      84.0
+    ]
+  },
+  "E4 full JSX native election_slots": {
+    "csv": 4,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      22.0,
+      20.0,
+      24.0
+    ]
+  },
+  "E4 full JSX native capped_time": {
+    "csv": 4,
+    "metric": "capped_time",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      22.0,
+      20.0,
+      24.0
+    ]
+  },
+  "E4 full P5 native election_slots": {
+    "csv": 4,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.0,
+      36.0
+    ]
+  },
+  "E4 full P5 native capped_time": {
+    "csv": 4,
+    "metric": "capped_time",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.0,
+      36.0
+    ]
+  },
+  "E4 full P5 bias-off election_slots": {
+    "csv": 4,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.0,
+      36.0
+    ]
+  },
+  "E4 full P5 bias-off capped_time": {
+    "csv": 4,
+    "metric": "capped_time",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.0,
+      36.0
+    ]
+  },
+  "E5 full P1 native fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      358515.8570405,
+      358464.934089,
+      358566.132921
+    ]
+  },
+  "E5 full P1 native service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.149878460165,
+      0.1482418890765,
+      0.1597554320865
+    ]
+  },
+  "E5 full P1 native joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      15.72929578025,
+      14.7666985036,
+      15.902334676350002
+    ]
+  },
+  "E5 full P1 native delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      151062.5,
+      149413.0,
+      161017.5
+    ]
+  },
+  "E5 full P1 native rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E5 full P1 native idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.974984138301,
+      0.9735341808115,
+      0.9752227736015
+    ]
+  },
+  "E5 full P1 native hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      358782.717457,
+      358756.358793,
+      358795.286065
+    ]
+  },
+  "E5 full P1 native lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      359049.233889,
+      359017.309289,
+      359100.54272100003
+    ]
+  },
+  "E5 full P2 native fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      358859.710537,
+      358830.75420900004,
+      358899.304809
+    ]
+  },
+  "E5 full P2 native service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.11364024208750001,
+      0.111774977676,
+      0.12132552832599999
+    ]
+  },
+  "E5 full P2 native joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      20.74459932385,
+      19.449598766050002,
+      21.0903808567
+    ]
+  },
+  "E5 full P2 native delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      114538.0,
+      112658.0,
+      122284.0
+    ]
+  },
+  "E5 full P2 native rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E5 full P2 native idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.9810351860295,
+      0.9799069821519999,
+      0.9813161785344999
+    ]
+  },
+  "E5 full P2 native hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      359081.692177,
+      359054.337577,
+      359094.855385
+    ]
+  },
+  "E5 full P2 native lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      359281.677569,
+      359253.526681,
+      359320.291329
+    ]
+  },
+  "E5 full JSX native fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      353562.898282,
+      353262.663238,
+      353643.42841399997
+    ]
+  },
+  "E5 full JSX native service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.4687890663755,
+      0.468719615041,
+      0.4688927472965
+    ]
+  },
+  "E5 full JSX native joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      5.0286513282000005,
+      5.02753932182,
+      5.02939635609
+    ]
+  },
+  "E5 full JSX native delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      472492.5,
+      472422.5,
+      472597.0
+    ]
+  },
+  "E5 full JSX native rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E5 full JSX native idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.9130183098115,
+      0.9127960989765,
+      0.913404245842
+    ]
+  },
+  "E5 full JSX native hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      354201.691594,
+      354112.067746,
+      354306.03608600004
+    ]
+  },
+  "E5 full JSX native lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      358274.77708599996,
+      357404.454754,
+      359646.671154
+    ]
+  },
+  "E5 full P4 native fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      349630.820154,
+      349555.98734999995,
+      349778.74373
+    ]
+  },
+  "E5 full P4 native service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.4641368191285,
+      0.464113999405,
+      0.46448357972050003
+    ]
+  },
+  "E5 full P4 native joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      5.0790556298550005,
+      5.0752653975,
+      5.079305360545
+    ]
+  },
+  "E5 full P4 native delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      467803.5,
+      467780.5,
+      468153.0
+    ]
+  },
+  "E5 full P4 native rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E5 full P4 native idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.896373274773,
+      0.896097929832,
+      0.8975026655030001
+    ]
+  },
+  "E5 full P4 native hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      350923.60659,
+      350842.145346,
+      351278.206806
+    ]
+  },
+  "E5 full P4 native lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      352225.262626,
+      352053.31840600003,
+      352461.642338
+    ]
+  },
+  "E5 full P5 native fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      346522.873938,
+      346253.738098,
+      346843.754722
+    ]
+  },
+  "E5 full P5 native service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.3968434368485,
+      0.3967848992955,
+      0.3971262029965
+    ]
+  },
+  "E5 full P5 native joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      5.94031929331,
+      5.936089631095,
+      5.941195666775
+    ]
+  },
+  "E5 full P5 native delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      399978.5,
+      399919.5,
+      400263.5
+    ]
+  },
+  "E5 full P5 native rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      21066.0,
+      19970.5,
+      21253.5
+    ]
+  },
+  "E5 full P5 native idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.868523556451,
+      0.8678094524005,
+      0.870540891726
+    ]
+  },
+  "E5 full P5 native hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      347056.04535499995,
+      346930.79539800005,
+      347416.657334
+    ]
+  },
+  "E5 full P5 native lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      350659.1697805,
+      349559.105798,
+      352520.4096155
+    ]
+  },
+  "E5 full P5 bias-off fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      347047.470034,
+      346736.468642,
+      347210.724694
+    ]
+  },
+  "E5 full P5 bias-off service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      0.39660134934,
+      0.396488242881,
+      0.3968121837485
+    ]
+  },
+  "E5 full P5 bias-off joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      5.94394532185,
+      5.9407871947699995,
+      5.945640957095
+    ]
+  },
+  "E5 full P5 bias-off delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      399734.5,
+      399620.5,
+      399947.0
+    ]
+  },
+  "E5 full P5 bias-off rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      22434.5,
+      21107.0,
+      22756.0
+    ]
+  },
+  "E5 full P5 bias-off idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      0.887193175493,
+      0.8868989222775,
+      0.887456672146
+    ]
+  },
+  "E5 full P5 bias-off hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      348531.787638,
+      348407.31270999997,
+      348669.27752999996
+    ]
+  },
+  "E5 full P5 bias-off lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "full",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      354325.920258,
+      353270.404322,
+      356715.39961
+    ]
+  },
+  "E3 heterogeneous P1 native orphan_rate": {
+    "csv": 3,
+    "metric": "orphan_rate",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.71,
+      0.67,
+      0.73
+    ]
+  },
+  "E3 heterogeneous P1 native adjacent_pairs_per_head": {
+    "csv": 3,
+    "metric": "adjacent_pairs_per_head",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0714285714285,
+      0.0,
+      0.2
+    ]
+  },
+  "E3 heterogeneous P1 native heads": {
+    "csv": 3,
+    "metric": "heads",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      4.5,
+      4.0,
+      5.0
+    ]
+  },
+  "E3 heterogeneous P2 native orphan_rate": {
+    "csv": 3,
+    "metric": "orphan_rate",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.8,
+      0.77,
+      0.84
+    ]
+  },
+  "E3 heterogeneous P2 native adjacent_pairs_per_head": {
+    "csv": 3,
+    "metric": "adjacent_pairs_per_head",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E3 heterogeneous P2 native heads": {
+    "csv": 3,
+    "metric": "heads",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      3.0,
+      2.0,
+      3.0
+    ]
+  },
+  "E3 heterogeneous P5 native orphan_rate": {
+    "csv": 3,
+    "metric": "orphan_rate",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E3 heterogeneous P5 native adjacent_pairs_per_head": {
+    "csv": 3,
+    "metric": "adjacent_pairs_per_head",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E3 heterogeneous P5 native heads": {
+    "csv": 3,
+    "metric": "heads",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      23.0,
+      22.0,
+      24.0
+    ]
+  },
+  "E3 heterogeneous CTRL uniform-exact orphan_rate": {
+    "csv": 3,
+    "metric": "orphan_rate",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "CTRL",
+      "variant": "uniform-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      0.17,
+      0.15,
+      0.18
+    ]
+  },
+  "E3 heterogeneous CTRL uniform-exact adjacent_pairs_per_head": {
+    "csv": 3,
+    "metric": "adjacent_pairs_per_head",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "CTRL",
+      "variant": "uniform-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      0.7673160173160001,
+      0.714285714286,
+      0.833043478261
+    ]
+  },
+  "E3 heterogeneous CTRL uniform-exact heads": {
+    "csv": 3,
+    "metric": "heads",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "CTRL",
+      "variant": "uniform-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      23.0,
+      22.0,
+      24.0
+    ]
+  },
+  "E3 heterogeneous CTRL weighted-exact orphan_rate": {
+    "csv": 3,
+    "metric": "orphan_rate",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "CTRL",
+      "variant": "weighted-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      0.15,
+      0.13,
+      0.165
+    ]
+  },
+  "E3 heterogeneous CTRL weighted-exact adjacent_pairs_per_head": {
+    "csv": 3,
+    "metric": "adjacent_pairs_per_head",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "CTRL",
+      "variant": "weighted-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      0.755,
+      0.6742424242425,
+      0.822134387352
+    ]
+  },
+  "E3 heterogeneous CTRL weighted-exact heads": {
+    "csv": 3,
+    "metric": "heads",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "CTRL",
+      "variant": "weighted-exact"
+    },
+    "n": 50,
+    "median_ci": [
+      23.0,
+      22.0,
+      24.0
+    ]
+  },
+  "E4 heterogeneous P4 M1 election_slots": {
+    "csv": 4,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P4",
+      "variant": "M1"
+    },
+    "n": 50,
+    "median_ci": [
+      80.0,
+      74.0,
+      84.0
+    ]
+  },
+  "E4 heterogeneous P4 M1 capped_time": {
+    "csv": 4,
+    "metric": "capped_time",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P4",
+      "variant": "M1"
+    },
+    "n": 50,
+    "median_ci": [
+      80.0,
+      74.0,
+      84.0
+    ]
+  },
+  "E4 heterogeneous JSX native election_slots": {
+    "csv": 4,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      22.0,
+      20.0,
+      24.0
+    ]
+  },
+  "E4 heterogeneous JSX native capped_time": {
+    "csv": 4,
+    "metric": "capped_time",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      22.0,
+      20.0,
+      24.0
+    ]
+  },
+  "E4 heterogeneous P5 native election_slots": {
+    "csv": 4,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.0,
+      36.0
+    ]
+  },
+  "E4 heterogeneous P5 native capped_time": {
+    "csv": 4,
+    "metric": "capped_time",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.0,
+      36.0
+    ]
+  },
+  "E4 heterogeneous P5 bias-off election_slots": {
+    "csv": 4,
+    "metric": "election_slots",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.0,
+      36.0
+    ]
+  },
+  "E4 heterogeneous P5 bias-off capped_time": {
+    "csv": 4,
+    "metric": "capped_time",
+    "filters": {
+      "n": 100,
+      "d": 8,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 50,
+    "median_ci": [
+      33.0,
+      30.0,
+      36.0
+    ]
+  },
+  "E5 heterogeneous P1 native fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      108143.373872,
+      107716.927695,
+      114489.46282849999
+    ]
+  },
+  "E5 heterogeneous P1 native service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.08240450441515,
+      0.0806230776863,
+      0.08720656811194999
+    ]
+  },
+  "E5 heterogeneous P1 native joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      18.28361546185,
+      17.5674240578,
+      18.669162023749998
+    ]
+  },
+  "E5 heterogeneous P1 native delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      83055.5,
+      81260.0,
+      87895.5
+    ]
+  },
+  "E5 heterogeneous P1 native rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E5 heterogeneous P1 native idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.9807260613135,
+      0.9799981140459999,
+      0.9810532310735
+    ]
+  },
+  "E5 heterogeneous P1 native hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      226050.8199145,
+      217813.940984,
+      231430.4503775
+    ]
+  },
+  "E5 heterogeneous P1 native lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P1",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      356347.2421075,
+      354578.4522365,
+      357756.1211695
+    ]
+  },
+  "E5 heterogeneous P2 native fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      108253.069648,
+      107795.489847,
+      114599.7222045
+    ]
+  },
+  "E5 heterogeneous P2 native service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.0563180871118,
+      0.0545034229586,
+      0.0604062903066
+    ]
+  },
+  "E5 heterogeneous P2 native joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      26.75251993205,
+      25.35029136575,
+      27.616116976500003
+    ]
+  },
+  "E5 heterogeneous P2 native delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      56763.0,
+      54934.0,
+      60883.5
+    ]
+  },
+  "E5 heterogeneous P2 native rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E5 heterogeneous P2 native idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.986322293691,
+      0.9856699553335,
+      0.98673363527
+    ]
+  },
+  "E5 heterogeneous P2 native hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      226242.7082025,
+      218004.467096,
+      231610.87072950002
+    ]
+  },
+  "E5 heterogeneous P2 native lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P2",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      356592.532179,
+      354813.71336449997,
+      357980.547801
+    ]
+  },
+  "E5 heterogeneous JSX native fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      106689.5568285,
+      106501.6040715,
+      112949.9775045
+    ]
+  },
+  "E5 heterogeneous JSX native service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.30229586268499997,
+      0.2975091774975,
+      0.30475940073450003
+    ]
+  },
+  "E5 heterogeneous JSX native joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      5.02080200383,
+      5.020123829785,
+      5.02202144819
+    ]
+  },
+  "E5 heterogeneous JSX native delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      304684.0,
+      299859.5,
+      307167.0
+    ]
+  },
+  "E5 heterogeneous JSX native rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E5 heterogeneous JSX native idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.9267844095925,
+      0.9261194496485,
+      0.927122671718
+    ]
+  },
+  "E5 heterogeneous JSX native hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      223341.8977375,
+      215175.9975475,
+      229682.1349365
+    ]
+  },
+  "E5 heterogeneous JSX native lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "JSX",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      352444.2896925,
+      350903.133554,
+      355619.3572735
+    ]
+  },
+  "E5 heterogeneous P4 native fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      105721.724524,
+      105185.74341600001,
+      112049.5092925
+    ]
+  },
+  "E5 heterogeneous P4 native service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.2987791447565,
+      0.293908125806,
+      0.3013369381885
+    ]
+  },
+  "E5 heterogeneous P4 native joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      5.080812341775,
+      5.077255541455,
+      5.082516822445
+    ]
+  },
+  "E5 heterogeneous P4 native delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      301139.5,
+      296230.0,
+      303717.5
+    ]
+  },
+  "E5 heterogeneous P4 native rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E5 heterogeneous P4 native idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.907681325617,
+      0.9072544294295,
+      0.908554094255
+    ]
+  },
+  "E5 heterogeneous P4 native hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      220614.36202950001,
+      213064.1430315,
+      225874.28932450002
+    ]
+  },
+  "E5 heterogeneous P4 native lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P4",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      348112.451214,
+      346314.06583,
+      349275.3322225
+    ]
+  },
+  "E5 heterogeneous P5 native fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      105074.7425155,
+      104731.53450149999,
+      111210.3877685
+    ]
+  },
+  "E5 heterogeneous P5 native service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.2689403710685,
+      0.26534279194349997,
+      0.272619803552
+    ]
+  },
+  "E5 heterogeneous P5 native joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      5.6120743367150006,
+      5.597703671130001,
+      5.677076993255
+    ]
+  },
+  "E5 heterogeneous P5 native delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      271065.0,
+      267439.0,
+      274773.5
+    ]
+  },
+  "E5 heterogeneous P5 native rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      10905.5,
+      10514.5,
+      11377.0
+    ]
+  },
+  "E5 heterogeneous P5 native idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      0.8470644398835,
+      0.8356433903095,
+      0.8512150802035
+    ]
+  },
+  "E5 heterogeneous P5 native hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      215350.4223715,
+      207986.8898155,
+      222011.070694
+    ]
+  },
+  "E5 heterogeneous P5 native lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "native"
+    },
+    "n": 6,
+    "median_ci": [
+      336881.5500345,
+      334489.719899,
+      342341.470481
+    ]
+  },
+  "E5 heterogeneous P5 bias-off fnd_s": {
+    "csv": 5,
+    "metric": "fnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      104467.40995649999,
+      104102.37185550001,
+      110312.778648
+    ]
+  },
+  "E5 heterogeneous P5 bias-off service_fraction": {
+    "csv": 5,
+    "metric": "service_fraction",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      0.26426232761150004,
+      0.2617218970135,
+      0.2686025399345
+    ]
+  },
+  "E5 heterogeneous P5 bias-off joules_per_delivered": {
+    "csv": 5,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      5.707549198680001,
+      5.696016333815001,
+      5.74466245089
+    ]
+  },
+  "E5 heterogeneous P5 bias-off delivered": {
+    "csv": 5,
+    "metric": "delivered",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      266350.0,
+      263789.5,
+      270724.5
+    ]
+  },
+  "E5 heterogeneous P5 bias-off rotations": {
+    "csv": 5,
+    "metric": "rotations",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      13668.0,
+      13359.5,
+      14161.5
+    ]
+  },
+  "E5 heterogeneous P5 bias-off idle_share": {
+    "csv": 5,
+    "metric": "idle_share",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      0.8467865389689999,
+      0.8412206804244999,
+      0.850274415763
+    ]
+  },
+  "E5 heterogeneous P5 bias-off hnd_s": {
+    "csv": 5,
+    "metric": "hnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      214325.3360735,
+      205958.876956,
+      220406.54063499998
+    ]
+  },
+  "E5 heterogeneous P5 bias-off lnd_s": {
+    "csv": 5,
+    "metric": "lnd_s",
+    "filters": {
+      "n": 100,
+      "profile": "heterogeneous",
+      "protocol": "P5",
+      "variant": "bias-off"
+    },
+    "n": 6,
+    "median_ci": [
+      341824.74716649996,
+      339166.69197349995,
+      351343.087885
+    ]
+  },
+  "E6 directional 0 P4 M1 independent": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0 P4 M1 dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0 P5 confirm independent": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0 P5 confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0 P5 no-confirm independent": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0 P5 no-confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0.1 P4 M1 independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 directional 0.1 P4 M1 dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0.1 P5 confirm independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 directional 0.1 P5 confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0.1 P5 no-confirm independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 directional 0.1 P5 no-confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0.2 P4 M1 independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 directional 0.2 P4 M1 dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0.2 P5 confirm independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 directional 0.2 P5 confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 directional 0.2 P5 no-confirm independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 directional 0.2 P5 no-confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0 P4 M1 independent": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0 P4 M1 dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0 P5 confirm independent": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0 P5 confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0 P5 no-confirm independent": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0 P5 no-confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0.1 P4 M1 independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 symmetric 0.1 P4 M1 dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0.1 P5 confirm independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 symmetric 0.1 P5 confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0.1 P5 no-confirm independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 symmetric 0.1 P5 no-confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0.2 P4 M1 independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 symmetric 0.2 P4 M1 dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0.2 P5 confirm independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 symmetric 0.2 P5 confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E6 symmetric 0.2 P5 no-confirm independent": [
+    50,
+    50,
+    0.9288782635358024,
+    1
+  ],
+  "E6 symmetric 0.2 P5 no-confirm dominating": [
+    0,
+    50,
+    0,
+    0.0711217364641977
+  ],
+  "E7 primary fnd_s": {
+    "csv": 7,
+    "metric": "fnd_s",
+    "filters": {
+      "variant": "primary",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      105306.544428,
+      104629.548774,
+      113219.812512
+    ]
+  },
+  "E7 primary service_fraction": {
+    "csv": 7,
+    "metric": "service_fraction",
+    "filters": {
+      "variant": "primary",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      0.266102787975,
+      0.264582795912,
+      0.272218474055
+    ]
+  },
+  "E7 primary rotations": {
+    "csv": 7,
+    "metric": "rotations",
+    "filters": {
+      "variant": "primary",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      10646.0,
+      10383.0,
+      11024.0
+    ]
+  },
+  "E7 primary joules_per_delivered": {
+    "csv": 7,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "variant": "primary",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      5.60221058495,
+      5.59843005753,
+      5.66109507323
+    ]
+  },
+  "E7 primary setup_J": {
+    "csv": 7,
+    "metric": "setup_J",
+    "filters": {
+      "variant": "primary",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      52376.5189202,
+      51697.8935565,
+      53227.8577866
+    ]
+  },
+  "E7 half-duplex fnd_s": {
+    "csv": 7,
+    "metric": "fnd_s",
+    "filters": {
+      "variant": "half-duplex",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      102273.882754,
+      101786.018446,
+      109938.715111
+    ]
+  },
+  "E7 half-duplex service_fraction": {
+    "csv": 7,
+    "metric": "service_fraction",
+    "filters": {
+      "variant": "half-duplex",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      0.239222145054,
+      0.230734199821,
+      0.245643417006
+    ]
+  },
+  "E7 half-duplex rotations": {
+    "csv": 7,
+    "metric": "rotations",
+    "filters": {
+      "variant": "half-duplex",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      8121.0,
+      7840.0,
+      8675.0
+    ]
+  },
+  "E7 half-duplex joules_per_delivered": {
+    "csv": 7,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "variant": "half-duplex",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      6.22750810237,
+      6.20828856461,
+      6.49157499651
+    ]
+  },
+  "E7 half-duplex setup_J": {
+    "csv": 7,
+    "metric": "setup_J",
+    "filters": {
+      "variant": "half-duplex",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      127927.0407,
+      122299.28247,
+      128089.000781
+    ]
+  },
+  "E7 rotation-off fnd_s": {
+    "csv": 7,
+    "metric": "fnd_s",
+    "filters": {
+      "variant": "rotation-off",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      106118.246702,
+      106055.82353,
+      113831.17656
+    ]
+  },
+  "E7 rotation-off service_fraction": {
+    "csv": 7,
+    "metric": "service_fraction",
+    "filters": {
+      "variant": "rotation-off",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      0.296748685385,
+      0.295236630618,
+      0.302221450541
+    ]
+  },
+  "E7 rotation-off rotations": {
+    "csv": 7,
+    "metric": "rotations",
+    "filters": {
+      "variant": "rotation-off",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E7 rotation-off joules_per_delivered": {
+    "csv": 7,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "variant": "rotation-off",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      5.04605220457,
+      5.04597902867,
+      5.04746418828
+    ]
+  },
+  "E7 rotation-off setup_J": {
+    "csv": 7,
+    "metric": "setup_J",
+    "filters": {
+      "variant": "rotation-off",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      54192.6853915,
+      54032.3989592,
+      55616.1069929
+    ]
+  },
+  "E7 maintenance-off fnd_s": {
+    "csv": 7,
+    "metric": "fnd_s",
+    "filters": {
+      "variant": "maintenance-off",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      106436.334702,
+      106379.17153,
+      114177.696392
+    ]
+  },
+  "E7 maintenance-off service_fraction": {
+    "csv": 7,
+    "metric": "service_fraction",
+    "filters": {
+      "variant": "maintenance-off",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      0.297507689255,
+      0.295968846116,
+      0.303008234944
+    ]
+  },
+  "E7 maintenance-off rotations": {
+    "csv": 7,
+    "metric": "rotations",
+    "filters": {
+      "variant": "maintenance-off",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "E7 maintenance-off joules_per_delivered": {
+    "csv": 7,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "variant": "maintenance-off",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      5.03349547138,
+      5.03294973832,
+      5.03458705943
+    ]
+  },
+  "E7 maintenance-off setup_J": {
+    "csv": 7,
+    "metric": "setup_J",
+    "filters": {
+      "variant": "maintenance-off",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      54379.2246191,
+      54156.2309321,
+      55969.3928355
+    ]
+  },
+  "E7 floor-0 fnd_s": {
+    "csv": 7,
+    "metric": "fnd_s",
+    "filters": {
+      "variant": "floor-0",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      105323.27541,
+      104687.770806,
+      113227.01216
+    ]
+  },
+  "E7 floor-0 service_fraction": {
+    "csv": 7,
+    "metric": "service_fraction",
+    "filters": {
+      "variant": "floor-0",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      0.264434963786,
+      0.261422760194,
+      0.270848298442
+    ]
+  },
+  "E7 floor-0 rotations": {
+    "csv": 7,
+    "metric": "rotations",
+    "filters": {
+      "variant": "floor-0",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      10164.0,
+      9932.0,
+      10548.0
+    ]
+  },
+  "E7 floor-0 joules_per_delivered": {
+    "csv": 7,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "variant": "floor-0",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      5.63374005185,
+      5.6305512183,
+      5.72952546782
+    ]
+  },
+  "E7 floor-0 setup_J": {
+    "csv": 7,
+    "metric": "setup_J",
+    "filters": {
+      "variant": "floor-0",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      55364.6812168,
+      54184.671826,
+      57538.9647778
+    ]
+  },
+  "E7 floor-0.02 fnd_s": {
+    "csv": 7,
+    "metric": "fnd_s",
+    "filters": {
+      "variant": "floor-0.02",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      105306.544428,
+      104629.548774,
+      113219.812512
+    ]
+  },
+  "E7 floor-0.02 service_fraction": {
+    "csv": 7,
+    "metric": "service_fraction",
+    "filters": {
+      "variant": "floor-0.02",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      0.266102787975,
+      0.264582795912,
+      0.272218474055
+    ]
+  },
+  "E7 floor-0.02 rotations": {
+    "csv": 7,
+    "metric": "rotations",
+    "filters": {
+      "variant": "floor-0.02",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      10646.0,
+      10383.0,
+      11024.0
+    ]
+  },
+  "E7 floor-0.02 joules_per_delivered": {
+    "csv": 7,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "variant": "floor-0.02",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      5.60221058495,
+      5.59843005753,
+      5.66109507323
+    ]
+  },
+  "E7 floor-0.02 setup_J": {
+    "csv": 7,
+    "metric": "setup_J",
+    "filters": {
+      "variant": "floor-0.02",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      52376.5189202,
+      51697.8935565,
+      53227.8577866
+    ]
+  },
+  "E7 floor-0.2 fnd_s": {
+    "csv": 7,
+    "metric": "fnd_s",
+    "filters": {
+      "variant": "floor-0.2",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      104689.41849,
+      104349.73783,
+      112440.165351
+    ]
+  },
+  "E7 floor-0.2 service_fraction": {
+    "csv": 7,
+    "metric": "service_fraction",
+    "filters": {
+      "variant": "floor-0.2",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      0.264727651553,
+      0.263007242782,
+      0.269683500347
+    ]
+  },
+  "E7 floor-0.2 rotations": {
+    "csv": 7,
+    "metric": "rotations",
+    "filters": {
+      "variant": "floor-0.2",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      12203.0,
+      11913.0,
+      12610.0
+    ]
+  },
+  "E7 floor-0.2 joules_per_delivered": {
+    "csv": 7,
+    "metric": "joules_per_delivered",
+    "filters": {
+      "variant": "floor-0.2",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      5.65487030094,
+      5.6275112851,
+      5.69500804068
+    ]
+  },
+  "E7 floor-0.2 setup_J": {
+    "csv": 7,
+    "metric": "setup_J",
+    "filters": {
+      "variant": "floor-0.2",
+      "protocol": "P5"
+    },
+    "n": 3,
+    "median_ci": [
+      47667.8435809,
+      47580.6688733,
+      48126.180874
+    ]
+  }
+}

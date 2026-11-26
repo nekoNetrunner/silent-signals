@@ -1,0 +1,46 @@
+{
+  "runs": {
+    "1": 24,
+    "2": 96,
+    "3": 28,
+    "4": 28,
+    "5": 32,
+    "6": 60,
+    "7": 60
+  },
+  "statuses": {
+    "1": {
+      "completed": 24
+    },
+    "2": {
+      "completed": 96
+    },
+    "3": {
+      "completed": 28
+    },
+    "4": {
+      "completed": 28
+    },
+    "5": {
+      "all_dead": 32
+    },
+    "6": {
+      "completed": 60
+    },
+    "7": {
+      "all_dead": 60
+    }
+  },
+  "independently_reconstructed_graphs": 8,
+  "config_sha256": "8028f6e042fd1e1336c1c9dff0a5f458530169aac1ea0cc6ba6fb91dbb415cd0",
+  "sha256": {
+    "e1_setup_cost.csv": "2f997da7607047b9431b2988540551a7f5805904bed7d3231675c536bf3ecad8",
+    "e2_correctness.csv": "020858783f487d82838495004631343079b19a7555ec4684b22efa82c23e9547",
+    "e3_coverage_scaling.csv": "8f7bb7f01f4a4462e0eec8a5152d91df96c4e1a1e09f151dd2e6623e1dad0842",
+    "e4_headtohead.csv": "7a816b68b898780390065e48fd98992d811cefa48c8bddc1ca561045deef5a34",
+    "e5_lifetime.csv": "ce892fc2c608e3e8cc7ed6e38267bb54f5f4a7e61510a2f0424690634b190119",
+    "e6_loss_ablation.csv": "991ab59c7ca3b9e331802f8528e7d35e2f5546b5646ff8b9077db42dd842c405",
+    "e7_sensitivity.csv": "c122663ca256d77ff1fe545c345a2cfaf5d53cde2cb01ce116d4126029ff4f17"
+  },
+  "independent_rerun_csv_hashes_match": true
+}

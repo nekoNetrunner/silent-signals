@@ -1,0 +1,1125 @@
+experiment,scenario,comparison,metric,unit,method,denominator,estimate,low95,high95,event_count_or_successful_pairs
+1,rgg-16-8-full-0-directional-ideal,P0/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P0/native,dominating_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+1,rgg-16-8-full-0-directional-ideal,P0/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+1,rgg-16-8-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,rgg-16-8-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,rgg-16-8-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,rgg-16-8-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,rgg-16-8-full-0-directional-ideal,P3/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P3/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P3/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P4/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P4/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P4/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,setup_slots_difference,slot,paired median; percentile bootstrap,2,22.0,21.0,23.0,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,setup_slots_ratio,ratio,paired median; percentile bootstrap,2,2.271381578947368,2.1052631578947367,2.4375,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,setup_J_difference,J,paired median; percentile bootstrap,2,3.000743328,2.807746656,3.19374,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,setup_J_ratio,ratio,paired median; percentile bootstrap,2,3.1490330897645835,3.1406048723865068,3.15746130714266,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,setup_slots_difference,slot,paired median; percentile bootstrap,2,36.0,33.0,39.0,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,setup_slots_ratio,ratio,paired median; percentile bootstrap,1,5.714285714285714,5.714285714285714,5.714285714285714,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,setup_J_difference,J,paired median; percentile bootstrap,2,4.117041984,4.109158944,4.1249250239999995,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,setup_J_ratio,ratio,paired median; percentile bootstrap,1,8.355493582597692,8.355493582597692,8.355493582597692,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,setup_slots_difference,slot,paired median; percentile bootstrap,2,36.0,33.0,39.0,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,setup_slots_ratio,ratio,paired median; percentile bootstrap,1,5.714285714285714,5.714285714285714,5.714285714285714,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,setup_J_difference,J,paired median; percentile bootstrap,2,4.117041984,4.109158944,4.1249250239999995,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,setup_J_ratio,ratio,paired median; percentile bootstrap,1,8.355493582597692,8.355493582597692,8.355493582597692,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,setup_slots_difference,slot,paired median; percentile bootstrap,2,18.5,18.0,19.0,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,setup_slots_ratio,ratio,paired median; percentile bootstrap,2,1.880952380952381,1.8571428571428572,1.9047619047619047,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,setup_J_difference,J,paired median; percentile bootstrap,2,2.6939806079999995,2.4056999999999995,2.9822612159999995,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,setup_J_ratio,ratio,paired median; percentile bootstrap,2,2.5814766874710187,2.4122441920149966,2.7507091829270407,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,setup_slots_difference,slot,paired median; percentile bootstrap,2,6.5,4.0,9.0,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,setup_slots_ratio,ratio,paired median; percentile bootstrap,2,1.202304147465438,1.1142857142857143,1.2903225806451613,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,setup_J_difference,J,paired median; percentile bootstrap,2,1.4432806079999998,0.8065199999999999,2.0800412159999997,
+1,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,setup_J_ratio,ratio,paired median; percentile bootstrap,2,1.521238486522822,1.2442047143740094,1.7982722586716346,
+1,grid-16-4-full-0-directional-ideal,P0/native,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,grid-16-4-full-0-directional-ideal,P0/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,grid-16-4-full-0-directional-ideal,P0/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,grid-16-4-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,grid-16-4-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,grid-16-4-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,grid-16-4-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+1,grid-16-4-full-0-directional-ideal,P3/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P3/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P3/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P4/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P4/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P4/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+1,grid-16-4-full-0-directional-ideal,P5/native vs P0/native,setup_slots_difference,slot,paired median; percentile bootstrap,2,33.5,31.0,36.0,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P0/native,setup_slots_ratio,ratio,paired median; percentile bootstrap,2,4.35,4.1,4.6,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P0/native,setup_J_difference,J,paired median; percentile bootstrap,2,3.528991488,3.302021184,3.755961792,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P0/native,setup_J_ratio,ratio,paired median; percentile bootstrap,2,4.834707633274199,4.588074916750242,5.0813403497981575,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P1/native,setup_slots_difference,slot,paired median; percentile bootstrap,2,43.5,41.0,46.0,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P1/native,setup_slots_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P1/native,setup_J_difference,J,paired median; percentile bootstrap,2,4.449268032,4.222297728,4.676238336,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P1/native,setup_J_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P2/native,setup_slots_difference,slot,paired median; percentile bootstrap,2,43.5,41.0,46.0,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P2/native,setup_slots_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P2/native,setup_J_difference,J,paired median; percentile bootstrap,2,4.449268032,4.222297728,4.676238336,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P2/native,setup_J_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P3/native,setup_slots_difference,slot,paired median; percentile bootstrap,2,21.5,19.0,24.0,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P3/native,setup_slots_ratio,ratio,paired median; percentile bootstrap,2,1.977272727272727,1.8636363636363635,2.090909090909091,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P3/native,setup_J_difference,J,paired median; percentile bootstrap,2,2.671749696,2.444779392,2.89872,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P3/native,setup_J_ratio,ratio,paired median; percentile bootstrap,2,2.503078557272334,2.375389126787607,2.630767987757061,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P4/native,setup_slots_difference,slot,paired median; percentile bootstrap,2,0.0,-4.0,4.0,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P4/native,setup_slots_ratio,ratio,paired median; percentile bootstrap,2,1.0031746031746032,0.9111111111111111,1.0952380952380953,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P4/native,setup_J_difference,J,paired median; percentile bootstrap,2,0.911650608,0.6514199999999999,1.171881216,
+1,grid-16-4-full-0-directional-ideal,P5/native vs P4/native,setup_J_ratio,ratio,paired median; percentile bootstrap,2,1.2584163204638688,1.1824257366451052,1.334406904282632,
+2,grid-16-8-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,grid-16-8-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,grid-16-8-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,grid-16-8-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,grid-16-8-full-0-directional-ideal,P3/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P3/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P3/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P4/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P4/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P4/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,JSX/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,JSX/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,JSX/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,grid-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,grid-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,grid-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,grid-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,grid-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,grid-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,grid-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,grid-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,grid-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,grid-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,rgg-16-8-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,rgg-16-8-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,rgg-16-8-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,rgg-16-8-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,rgg-16-8-full-0-directional-ideal,P3/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P3/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P3/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P4/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P4/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P4/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,JSX/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,JSX/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,JSX/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,sparse-16-3-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,sparse-16-3-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,sparse-16-3-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,sparse-16-3-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,sparse-16-3-full-0-directional-ideal,P3/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P3/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P3/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P4/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P4/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P4/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,JSX/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,JSX/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,JSX/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,sparse-16-3-full-0-directional-ideal,P5/native vs P1/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,sparse-16-3-full-0-directional-ideal,P5/native vs P1/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,sparse-16-3-full-0-directional-ideal,P5/native vs P2/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,sparse-16-3-full-0-directional-ideal,P5/native vs P2/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,sparse-16-3-full-0-directional-ideal,P5/native vs P3/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,sparse-16-3-full-0-directional-ideal,P5/native vs P3/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,sparse-16-3-full-0-directional-ideal,P5/native vs P4/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,sparse-16-3-full-0-directional-ideal,P5/native vs P4/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,sparse-16-3-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,sparse-16-3-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,line-16-8-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,line-16-8-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,line-16-8-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,line-16-8-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,line-16-8-full-0-directional-ideal,P3/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P3/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P3/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P4/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P4/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P4/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,JSX/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,JSX/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,JSX/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,line-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,line-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,line-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,line-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,line-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,line-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,line-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,line-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,line-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,line-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,clique-8-8-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,clique-8-8-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,clique-8-8-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,clique-8-8-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,clique-8-8-full-0-directional-ideal,P3/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P3/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P3/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P4/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P4/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P4/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,JSX/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,JSX/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,JSX/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clique-8-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,clique-8-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,clique-8-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,clique-8-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,clique-8-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,clique-8-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,clique-8-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,clique-8-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,clique-8-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,clique-8-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,tree-16-8-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,tree-16-8-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,tree-16-8-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,tree-16-8-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,tree-16-8-full-0-directional-ideal,P3/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P3/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P3/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P4/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P4/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P4/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,JSX/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,JSX/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,JSX/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,tree-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,tree-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,tree-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,tree-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,tree-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,tree-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,tree-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,tree-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,tree-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,tree-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,clustered-16-8-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,clustered-16-8-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,clustered-16-8-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,clustered-16-8-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,clustered-16-8-full-0-directional-ideal,P3/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P3/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P3/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P4/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P4/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P4/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,JSX/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,JSX/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,JSX/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,clustered-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,clustered-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,clustered-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,clustered-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,clustered-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,clustered-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,clustered-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,clustered-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,clustered-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,clustered-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,butterfly-16-8-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,butterfly-16-8-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,butterfly-16-8-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,butterfly-16-8-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+2,butterfly-16-8-full-0-directional-ideal,P3/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P3/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P3/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P4/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P4/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P4/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,JSX/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,JSX/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,JSX/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+2,butterfly-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,butterfly-16-8-full-0-directional-ideal,P5/native vs P1/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,butterfly-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,butterfly-16-8-full-0-directional-ideal,P5/native vs P2/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+2,butterfly-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,butterfly-16-8-full-0-directional-ideal,P5/native vs P3/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,butterfly-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,butterfly-16-8-full-0-directional-ideal,P5/native vs P4/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+2,butterfly-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+2,butterfly-16-8-full-0-directional-ideal,P5/native vs JSX/native,valid_mis_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+3,rgg-16-8-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+3,rgg-16-8-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+3,rgg-16-8-full-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+3,rgg-16-8-full-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-full-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-full-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+3,rgg-16-8-full-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-full-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-full-0-directional-ideal,CTRL/uniform-expected,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-full-0-directional-ideal,CTRL/uniform-expected,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-full-0-directional-ideal,CTRL/uniform-expected,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-full-0-directional-ideal,CTRL/weighted-expected,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-full-0-directional-ideal,CTRL/weighted-expected,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-full-0-directional-ideal,CTRL/weighted-expected,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-full-0-directional-ideal,CTRL/uniform-exact,independent_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+3,rgg-16-8-full-0-directional-ideal,CTRL/uniform-exact,dominating_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+3,rgg-16-8-full-0-directional-ideal,CTRL/uniform-exact,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+3,rgg-16-8-full-0-directional-ideal,CTRL/weighted-exact,independent_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+3,rgg-16-8-full-0-directional-ideal,CTRL/weighted-exact,dominating_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+3,rgg-16-8-full-0-directional-ideal,CTRL/weighted-exact,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+3,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.8125,-1.0,-0.625,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,orphan_rate_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,1,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.8125,-1.0,-0.625,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,orphan_rate_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,1,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/uniform-expected,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.25,-0.3125,-0.1875,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/uniform-expected,orphan_rate_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/uniform-expected,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,2,-0.333333333333,-0.333333333333,-0.333333333333,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/uniform-expected,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/weighted-expected,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.25,-0.3125,-0.1875,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/weighted-expected,orphan_rate_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/weighted-expected,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,2,-0.333333333333,-0.333333333333,-0.333333333333,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/weighted-expected,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/uniform-exact,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.09375,-0.1875,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/uniform-exact,orphan_rate_ratio,ratio,paired median; percentile bootstrap,1,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/uniform-exact,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,2,-0.3,-0.6,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/uniform-exact,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,1,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/weighted-exact,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.09375,-0.1875,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/weighted-exact,orphan_rate_ratio,ratio,paired median; percentile bootstrap,1,0.0,0.0,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/weighted-exact,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,2,-0.3,-0.6,0.0,
+3,rgg-16-8-full-0-directional-ideal,P5/native vs CTRL/weighted-exact,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,1,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+3,rgg-16-8-heterogeneous-0-directional-ideal,P1/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+3,rgg-16-8-heterogeneous-0-directional-ideal,P1/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,P1/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,P2/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+3,rgg-16-8-heterogeneous-0-directional-ideal,P2/native,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,P2/native,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/uniform-expected,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/uniform-expected,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/uniform-expected,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/weighted-expected,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/weighted-expected,dominating_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/weighted-expected,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/uniform-exact,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/uniform-exact,dominating_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/uniform-exact,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/weighted-exact,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/weighted-exact,dominating_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+3,rgg-16-8-heterogeneous-0-directional-ideal,CTRL/weighted-exact,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.8125,-1.0,-0.625,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,orphan_rate_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,1,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.8125,-1.0,-0.625,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,orphan_rate_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,1,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/uniform-expected,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.1875,-0.3125,-0.0625,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/uniform-expected,orphan_rate_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/uniform-expected,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,2,-0.4166666666665,-0.5,-0.333333333333,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/uniform-expected,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/weighted-expected,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.25,-0.3125,-0.1875,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/weighted-expected,orphan_rate_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/weighted-expected,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,2,-0.4166666666665,-0.5,-0.333333333333,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/weighted-expected,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/uniform-exact,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.09375,-0.1875,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/uniform-exact,orphan_rate_ratio,ratio,paired median; percentile bootstrap,1,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/uniform-exact,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,2,-0.425,-0.6,-0.25,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/uniform-exact,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/weighted-exact,orphan_rate_difference,fraction,paired median; percentile bootstrap,2,-0.09375,-0.1875,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/weighted-exact,orphan_rate_ratio,ratio,paired median; percentile bootstrap,1,0.0,0.0,0.0,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/weighted-exact,adjacent_pairs_per_head_difference,pairs/head,paired median; percentile bootstrap,2,-0.425,-0.6,-0.25,
+3,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs CTRL/weighted-exact,adjacent_pairs_per_head_ratio,ratio,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+4,rgg-16-8-full-0-directional-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/M2,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/M2,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/M2,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/M4,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/M4,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/M4,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/oracle-M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/oracle-M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/oracle-M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,JSX/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,JSX/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,JSX/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P5/bias-off,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P5/bias-off,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P5/bias-off,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-full-0-directional-ideal,P4/M1 vs P5/native,capped_time_difference,slot,paired median; percentile bootstrap,2,-7.5,-11.0,-4.0,
+4,rgg-16-8-full-0-directional-ideal,P4/M1 vs P5/native,capped_time_ratio,ratio,paired median; percentile bootstrap,2,0.626984126984127,0.47619047619047616,0.7777777777777778,
+4,rgg-16-8-full-0-directional-ideal,P4/M1 vs P5/native,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,0.626984126984127,0.47619047619047616,0.7777777777777778,2
+4,rgg-16-8-full-0-directional-ideal,P4/M1 vs JSX/native,capped_time_difference,slot,paired median; percentile bootstrap,2,2.0,-2.0,6.0,
+4,rgg-16-8-full-0-directional-ideal,P4/M1 vs JSX/native,capped_time_ratio,ratio,paired median; percentile bootstrap,2,1.2916666666666667,0.8333333333333334,1.75,
+4,rgg-16-8-full-0-directional-ideal,P4/M1 vs JSX/native,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,1.2916666666666667,0.8333333333333334,1.75,2
+4,rgg-16-8-full-0-directional-ideal,JSX/native vs P5/native,capped_time_difference,slot,paired median; percentile bootstrap,2,-9.5,-10.0,-9.0,
+4,rgg-16-8-full-0-directional-ideal,JSX/native vs P5/native,capped_time_ratio,ratio,paired median; percentile bootstrap,2,0.5079365079365079,0.4444444444444444,0.5714285714285714,
+4,rgg-16-8-full-0-directional-ideal,JSX/native vs P5/native,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,0.5079365079365079,0.4444444444444444,0.5714285714285714,2
+4,rgg-16-8-full-0-directional-ideal,P5/bias-off vs P5/native,capped_time_difference,slot,paired median; percentile bootstrap,2,-1.5,-3.0,0.0,
+4,rgg-16-8-full-0-directional-ideal,P5/bias-off vs P5/native,capped_time_ratio,ratio,paired median; percentile bootstrap,2,0.9285714285714286,0.8571428571428571,1.0,
+4,rgg-16-8-full-0-directional-ideal,P5/bias-off vs P5/native,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,0.9285714285714286,0.8571428571428571,1.0,2
+4,rgg-16-8-full-0-directional-ideal,P4/M2 vs P4/M1,capped_time_difference,slot,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+4,rgg-16-8-full-0-directional-ideal,P4/M2 vs P4/M1,capped_time_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+4,rgg-16-8-full-0-directional-ideal,P4/M2 vs P4/M1,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,2
+4,rgg-16-8-full-0-directional-ideal,P4/M4 vs P4/M1,capped_time_difference,slot,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+4,rgg-16-8-full-0-directional-ideal,P4/M4 vs P4/M1,capped_time_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+4,rgg-16-8-full-0-directional-ideal,P4/M4 vs P4/M1,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,2
+4,rgg-16-8-full-0-directional-ideal,P4/oracle-M1 vs P4/M1,capped_time_difference,slot,paired median; percentile bootstrap,2,-1.0,-2.0,0.0,
+4,rgg-16-8-full-0-directional-ideal,P4/oracle-M1 vs P4/M1,capped_time_ratio,ratio,paired median; percentile bootstrap,2,0.9285714285714286,0.8571428571428571,1.0,
+4,rgg-16-8-full-0-directional-ideal,P4/oracle-M1 vs P4/M1,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,0.9285714285714286,0.8571428571428571,1.0,2
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M2,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M2,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M2,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M4,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M4,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M4,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/oracle-M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/oracle-M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/oracle-M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,JSX/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,JSX/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,JSX/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P5/native,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P5/native,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P5/native,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M1 vs P5/native,capped_time_difference,slot,paired median; percentile bootstrap,2,-10.5,-14.0,-7.0,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M1 vs P5/native,capped_time_ratio,ratio,paired median; percentile bootstrap,2,0.5416666666666666,0.4166666666666667,0.6666666666666666,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M1 vs P5/native,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,0.5416666666666666,0.4166666666666667,0.6666666666666666,2
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M1 vs JSX/native,capped_time_difference,slot,paired median; percentile bootstrap,2,2.0,-2.0,6.0,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M1 vs JSX/native,capped_time_ratio,ratio,paired median; percentile bootstrap,2,1.2916666666666667,0.8333333333333334,1.75,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M1 vs JSX/native,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,1.2916666666666667,0.8333333333333334,1.75,2
+4,rgg-16-8-heterogeneous-0-directional-ideal,JSX/native vs P5/native,capped_time_difference,slot,paired median; percentile bootstrap,2,-12.5,-13.0,-12.0,
+4,rgg-16-8-heterogeneous-0-directional-ideal,JSX/native vs P5/native,capped_time_ratio,ratio,paired median; percentile bootstrap,2,0.44047619047619047,0.38095238095238093,0.5,
+4,rgg-16-8-heterogeneous-0-directional-ideal,JSX/native vs P5/native,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,0.44047619047619047,0.38095238095238093,0.5,2
+4,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off vs P5/native,capped_time_difference,slot,paired median; percentile bootstrap,2,-4.5,-6.0,-3.0,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off vs P5/native,capped_time_ratio,ratio,paired median; percentile bootstrap,2,0.8035714285714286,0.75,0.8571428571428571,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off vs P5/native,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,0.8035714285714286,0.75,0.8571428571428571,2
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M2 vs P4/M1,capped_time_difference,slot,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M2 vs P4/M1,capped_time_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M2 vs P4/M1,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,2
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M4 vs P4/M1,capped_time_difference,slot,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M4 vs P4/M1,capped_time_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/M4 vs P4/M1,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,2
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/oracle-M1 vs P4/M1,capped_time_difference,slot,paired median; percentile bootstrap,2,-1.0,-2.0,0.0,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/oracle-M1 vs P4/M1,capped_time_ratio,ratio,paired median; percentile bootstrap,2,0.9285714285714286,0.8571428571428571,1.0,
+4,rgg-16-8-heterogeneous-0-directional-ideal,P4/oracle-M1 vs P4/M1,successful_pair_ratio,ratio,paired median; percentile bootstrap,2,0.9285714285714286,0.8571428571428571,1.0,2
+5,rgg-16-8-full-0-directional-ideal,P0/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,357.845387636,357.845387636,357.845387636,2
+5,rgg-16-8-full-0-directional-ideal,P0/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,362.332075636,362.332075636,362.332075636,2
+5,rgg-16-8-full-0-directional-ideal,P0/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,362.332075636,362.332075636,362.676363636,2
+5,rgg-16-8-full-0-directional-ideal,P1/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,359.611195636,359.611195636,363.476363636,2
+5,rgg-16-8-full-0-directional-ideal,P1/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,363.476363636,363.476363636,363.476363636,2
+5,rgg-16-8-full-0-directional-ideal,P1/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,363.476363636,363.476363636,363.626859636,2
+5,rgg-16-8-full-0-directional-ideal,P2/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,359.611195636,359.611195636,363.476363636,2
+5,rgg-16-8-full-0-directional-ideal,P2/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,363.476363636,363.476363636,363.476363636,2
+5,rgg-16-8-full-0-directional-ideal,P2/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,363.476363636,363.476363636,363.626859636,2
+5,rgg-16-8-full-0-directional-ideal,P3/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,358.805739636,358.805739636,360.337288727,2
+5,rgg-16-8-full-0-directional-ideal,P3/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,361.687147636,361.687147636,361.687147636,2
+5,rgg-16-8-full-0-directional-ideal,P3/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,362.482219636,362.482219636,363.602571636,2
+5,rgg-16-8-full-0-directional-ideal,P4/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,355.499787636,355.499787636,355.819259636,2
+5,rgg-16-8-full-0-directional-ideal,P4/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,359.819259636,359.819259636,359.932075636,2
+5,rgg-16-8-full-0-directional-ideal,P4/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,361.047147636,361.047147636,361.302219636,2
+5,rgg-16-8-full-0-directional-ideal,P5/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,350.008499927,350.008499927,352.391091636,2
+5,rgg-16-8-full-0-directional-ideal,P5/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,357.044787636,357.044787636,357.102075636,2
+5,rgg-16-8-full-0-directional-ideal,P5/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,358.208979636,358.208979636,359.312747636,2
+5,rgg-16-8-full-0-directional-ideal,JSX/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,356.298731636,356.298731636,357.253907636,2
+5,rgg-16-8-full-0-directional-ideal,JSX/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,359.982075636,359.982075636,360.037781527,2
+5,rgg-16-8-full-0-directional-ideal,JSX/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,360.727147636,360.727147636,363.062571636,2
+5,rgg-16-8-full-0-directional-ideal,P5/bias-off,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,352.763379636,352.763379636,353.508907636,2
+5,rgg-16-8-full-0-directional-ideal,P5/bias-off,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,356.087075636,356.087075636,357.312075636,2
+5,rgg-16-8-full-0-directional-ideal,P5/bias-off,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,358.209083636,358.209083636,362.773771636,2
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-6.6455918544999975,-7.8368877089999955,-5.454295999999999,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9814288737982564,0.978099793989879,0.9847579536066339,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-5.258644000000004,-5.2872879999999896,-5.230000000000018,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9854866727137819,0.9854076181615463,0.9855657272660174,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-3.743356000000034,-4.123096000000032,-3.363616000000036,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9896731211107548,0.9886206707127356,0.9907255715087738,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.006696428570999974,-0.013392857143000036,0.026785714284999984,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.0293360782278276,0.9552238805965159,1.103448275859139,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,-0.17601646937499993,-0.6206896551699996,0.2686567164199998,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P0/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,0.976562500000356,0.9062500000003304,1.0468750000003817,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-10.343983854499982,-13.467863708999971,-7.220103999999992,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9714347715465788,0.9629470715116781,0.9799224715814793,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-6.402931999999964,-6.43157599999995,-6.374287999999979,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9823841860418409,0.982305380367344,0.9824629917163377,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-4.790748000000008,-5.267383999999993,-4.314112000000023,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9868220997895769,0.9855083176597558,0.9881358819193979,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.229910714285355,0.178571428571,0.28124999999971,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,33.333333333267504,2.6666666666604444,63.99999999987456,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,-194.0,-378.0,-10.0,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P1/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,0.1953125,0.015625,0.375,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-10.343983854499982,-13.467863708999971,-7.220103999999992,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9714347715465788,0.9629470715116781,0.9799224715814793,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-6.402931999999964,-6.43157599999995,-6.374287999999979,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9823841860418409,0.982305380367344,0.9824629917163377,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-4.790748000000008,-5.267383999999993,-4.314112000000023,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9868220997895769,0.9855083176597558,0.9881358819193979,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.229910714285355,0.178571428571,0.28124999999971,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,33.333333333267504,2.6666666666604444,63.99999999987456,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,-194.0,-378.0,-10.0,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P2/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,0.1953125,0.015625,0.375,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-8.371718399999992,-8.797239708999996,-7.946197090999988,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9767148890514066,0.9754818868897566,0.9779478912130567,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-4.613716000000011,-4.6423599999999965,-4.585072000000025,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9872439039369925,0.9871647084217876,0.9873230994521972,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-4.281532000000027,-4.28982400000001,-4.273240000000044,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9882065305578434,0.9882018876250014,0.9882111734906854,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.040178571429000026,-0.044642857143000036,-0.035714285715000016,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.8768768768755943,0.8648648648643739,0.8888888888868147,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,0.73873873874,0.6666666666700003,0.8108108108099996,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P3/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.1406250000002611,1.1250000000007032,1.1562499999998193,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-4.4597278545000165,-5.491287709000005,-3.428168000000028,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9874593768525739,0.9845533305504458,0.9903654231547021,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-2.8022359999999935,-2.8872879999999554,-2.7171840000000316,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9922133586970575,0.9919782420199752,0.9924484753741398,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-2.4138200000000154,-3.093240000000037,-1.7343999999999937,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9933174153746576,0.9914386354915938,0.9951961952577214,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.004464285714499999,-0.008928571428999998,0.0,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.984848484847765,0.9696969696955299,1.0,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,0.09090909090999988,0.0,0.18181818181999976,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P4/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.0156250000001612,1.0,1.0312500000003222,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-5.57652385450001,-7.2454077090000055,-3.907640000000015,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9843759253778265,0.9797191645657737,0.9890326861898793,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-2.9364969454999823,-2.992993890999969,-2.8799999999999955,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9918433010899478,0.9916870005189288,0.9919996016609668,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-3.1339959999999962,-3.7498239999999896,-2.518168000000003,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.991345437888336,0.9896716866651859,0.9930191891114859,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.029017857143500025,-0.035714285715000016,-0.022321428572000035,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.9082125603845423,0.8888888888868147,0.92753623188227,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,0.5507246376850001,0.43478260869999996,0.6666666666700003,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs JSX/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.1015625000007727,1.0781250000008422,1.1250000000007032,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P5/bias-off,fnd_s_difference,s,paired median; percentile bootstrap,2,-1.9363478545000135,-3.500407709000001,-0.37228800000002593,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P5/bias-off,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.994521379212029,0.9900981060635555,0.9989446523605024,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P5/bias-off,hnd_s_difference,s,paired median; percentile bootstrap,2,0.37385600000001773,-0.2672879999999509,1.0149999999999864,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P5/bias-off,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.0010511872163839,0.9992519480358334,1.0028504263969342,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P5/bias-off,lnd_s_difference,s,paired median; percentile bootstrap,2,-1.7305640000000153,-3.461024000000009,-0.00010400000002164234,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P5/bias-off,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.995229631252458,0.9904595528381452,0.9999997096667707,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P5/bias-off,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P5/bias-off,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P5/bias-off,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+5,rgg-16-8-full-0-directional-ideal,P5/native vs P5/bias-off,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P0/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,111.593440749,111.593440749,124.240724719,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P0/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,184.214181291,184.214181291,192.885047552,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P0/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,347.541231778,347.541231778,351.889067874,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P1/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,112.080656749,112.080656749,127.136212719,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P1/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,184.706325291,184.706325291,193.542119552,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P1/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,348.353375778,348.353375778,352.713355874,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P2/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,112.080656749,112.080656749,127.136212719,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P2/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,184.706325291,184.706325291,193.542119552,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P2/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,348.353375778,348.353375778,352.713355874,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P3/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,111.273440749,111.273440749,126.164068719,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P3/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,183.889253291,183.889253291,192.565047552,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P3/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,346.889087778,346.889087778,351.736459874,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P4/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,110.953440749,110.953440749,125.844068719,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P4/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,183.569253291,183.569253291,190.852583552,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P4/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,344.978943778,344.978943778,347.786459874,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.176152749,108.176152749,122.913996719,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.254677291,180.254677291,189.237831552,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,339.381655778,339.381655778,344.831963874,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,JSX/native,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,110.793440749,110.793440749,124.989068719,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,JSX/native,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,182.659253291,182.659253291,192.237583552,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,JSX/native,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,345.083943778,345.083943778,351.136603874,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.601152749,108.601152749,123.018996719,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.734677291,180.734677291,187.443039552,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,341.344119778,341.344119778,346.794915874,2
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P0/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-2.372008000000001,-3.417287999999999,-1.3267280000000028,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P0/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9793493257175135,0.9693773399488032,0.9893213114862239,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P0/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-3.803359999999998,-3.9595039999999813,-3.6472160000000144,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P0/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9797986108699732,0.9785059761835316,0.9810912455564148,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P0/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-7.608339999999998,-8.159576000000015,-7.057103999999981,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P0/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.978233540153084,0.9765219914821154,0.9799450888240526,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P0/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.0424107142857,-0.0848214285714,0.0,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P0/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.72857142857152,0.45714285714304,1.0,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P0/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,4.066581652025,0.0,8.13316330405,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P0/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.5937500000011406,1.0,2.1875000000022813,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-4.063360000000003,-4.222216000000003,-3.904504000000003,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9659766343376174,0.9651634446723133,0.9667898240029215,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-4.37796800000001,-4.451648000000006,-4.304288000000014,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9768296186572073,0.975898778815579,0.9777604584988356,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-8.426556000000005,-8.971720000000005,-7.881392000000005,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9759501568511866,0.9742453479029365,0.9776549657994367,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.08482142857135,0.0714285714286,0.09821428571409999,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,2.2941176470556455,2.2941176470556455,2.2941176470556455,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-7.938167558039999,-7.938167558039999,-7.938167558039999,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P1/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.43589743589678,0.43589743589678,0.43589743589678,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-4.063360000000003,-4.222216000000003,-3.904504000000003,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9659766343376174,0.9651634446723133,0.9667898240029215,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-4.37796800000001,-4.451648000000006,-4.304288000000014,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9768296186572073,0.975898778815579,0.9777604584988356,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-8.426556000000005,-8.971720000000005,-7.881392000000005,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9759501568511866,0.9742453479029365,0.9776549657994367,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.08482142857135,0.0714285714286,0.09821428571409999,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,2.2941176470556455,2.2941176470556455,2.2941176470556455,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-7.938167558039999,-7.938167558039999,-7.938167558039999,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P2/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.43589743589678,0.43589743589678,0.43589743589678,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P3/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-3.1736800000000045,-3.250072000000003,-3.097288000000006,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P3/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9732021977502603,0.9721650739012684,0.9742393215992522,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P3/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-3.4808960000000013,-3.6345759999999814,-3.3272160000000213,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P3/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9814782864392035,0.9802349733061977,0.9827215995722093,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P3/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-7.2059639999999945,-7.507431999999994,-6.904495999999995,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P3/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9793640448197389,0.9783578317551328,0.9803702578843452,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P3/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.07366071428570001,-0.1294642857144,-0.01785714285700002,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P3/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.6312661498710486,0.35555555555544494,0.9069767441866522,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P3/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,5.112883507499999,0.5706082388500002,9.65515877615,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P3/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.9575320512842322,1.1025641025655313,2.812500000002933,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P4/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-2.853680000000004,-2.93007200000001,-2.7772879999999986,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P4/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9758427670129131,0.97496888801959,0.9767166460062362,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P4/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-2.464663999999999,-3.314575999999988,-1.61475200000001,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P4/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9867415004726189,0.981943730006105,0.9915392709391327,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P4/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-4.275891999999999,-5.597287999999992,-2.954496000000006,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P4/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.987639921362219,0.9837749865580145,0.9915048561664235,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P4/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.06696428571420002,-0.1160714285714,-0.01785714285700002,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P4/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.6439645625695928,0.3809523809525333,0.9069767441866522,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P4/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,4.92263407349,0.5706082388500002,9.274659908130001,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P4/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.8637820512852843,1.1025641025655313,2.6250000000050373,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs JSX/native,fnd_s_difference,s,paired median; percentile bootstrap,2,-2.346180000000004,-2.617288000000002,-2.075072000000006,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs JSX/native,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9798874204152135,0.9763768686818798,0.9833979721485471,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs JSX/native,hnd_s_difference,s,paired median; percentile bootstrap,2,-2.7021639999999962,-2.999752000000001,-2.4045759999999916,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs JSX/native,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9856156646432892,0.9843956007739321,0.9868357285126464,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs JSX/native,lnd_s_difference,s,paired median; percentile bootstrap,2,-6.003464000000008,-6.304640000000006,-5.70228800000001,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs JSX/native,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9827603500423647,0.9820450504719743,0.983475649612755,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs JSX/native,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.0647321428572,-0.09821428571440001,-0.03125,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs JSX/native,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.6344393592675885,0.4210526315787612,0.8478260869564159,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs JSX/native,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,4.803656436680001,0.9334406515899998,8.67387222177,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs JSX/native,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.7772435897454202,1.1794871794882642,2.375000000002576,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P5/bias-off,fnd_s_difference,s,paired median; percentile bootstrap,2,-0.26500000000000057,-0.42499999999999716,-0.10500000000000398,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P5/bias-off,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.997616535497495,0.9960865977087531,0.9991464732862368,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P5/bias-off,hnd_s_difference,s,paired median; percentile bootstrap,2,0.6573960000000056,-0.47999999999998977,1.794792000000001,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P5/bias-off,hnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.0034596530092812,0.9973441731980015,1.0095751328205607,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P5/bias-off,lnd_s_difference,s,paired median; percentile bootstrap,2,-1.9627080000000205,-1.9629520000000298,-1.9624640000000113,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P5/bias-off,lnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.994295253953096,0.9942507754307403,0.9943397324754518,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P5/bias-off,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.015625,0.0,0.03125,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P5/bias-off,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.1093750000001092,1.0,1.2187500000002187,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P5/bias-off,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,-0.6709104683249998,-1.3418209366499996,0.0,
+5,rgg-16-8-heterogeneous-0-directional-ideal,P5/native vs P5/bias-off,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,0.9102564102566161,0.8205128205132322,1.0,
+6,rgg-16-8-full-0-directional-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-directional-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-directional-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-directional-ideal,P5/confirm,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-directional-ideal,P5/confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-directional-ideal,P5/confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-directional-ideal,P5/no-confirm,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-directional-ideal,P5/no-confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-directional-ideal,P5/no-confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-directional-ideal,P5/confirm vs P5/no-confirm,independent_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0-directional-ideal,P5/confirm vs P5/no-confirm,independent_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0-directional-ideal,P5/confirm vs P5/no-confirm,dominating_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0-directional-ideal,P5/confirm vs P5/no-confirm,dominating_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0-directional-ideal,P5/confirm vs P5/no-confirm,election_slots_difference,slot,paired median; percentile bootstrap,2,6.5,6.0,7.0,
+6,rgg-16-8-full-0-directional-ideal,P5/confirm vs P5/no-confirm,election_slots_ratio,ratio,paired median; percentile bootstrap,2,1.5,1.5,1.5,
+6,rgg-16-8-full-0.02-directional-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-directional-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-directional-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-directional-ideal,P5/confirm,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-directional-ideal,P5/confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-directional-ideal,P5/confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-directional-ideal,P5/no-confirm,independent_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.02-directional-ideal,P5/no-confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-directional-ideal,P5/no-confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.02-directional-ideal,P5/confirm vs P5/no-confirm,independent_difference,fraction,paired median; percentile bootstrap,2,0.5,0.0,1.0,
+6,rgg-16-8-full-0.02-directional-ideal,P5/confirm vs P5/no-confirm,independent_ratio,ratio,paired median; percentile bootstrap,1,1.0,1.0,1.0,
+6,rgg-16-8-full-0.02-directional-ideal,P5/confirm vs P5/no-confirm,dominating_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0.02-directional-ideal,P5/confirm vs P5/no-confirm,dominating_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0.02-directional-ideal,P5/confirm vs P5/no-confirm,election_slots_difference,slot,paired median; percentile bootstrap,2,4.5,1.0,8.0,
+6,rgg-16-8-full-0.02-directional-ideal,P5/confirm vs P5/no-confirm,election_slots_ratio,ratio,paired median; percentile bootstrap,2,1.425,1.05,1.8,
+6,rgg-16-8-full-0.05-directional-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-directional-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-directional-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-directional-ideal,P5/confirm,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-directional-ideal,P5/confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-directional-ideal,P5/confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-directional-ideal,P5/no-confirm,independent_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.05-directional-ideal,P5/no-confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-directional-ideal,P5/no-confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.05-directional-ideal,P5/confirm vs P5/no-confirm,independent_difference,fraction,paired median; percentile bootstrap,2,0.5,0.0,1.0,
+6,rgg-16-8-full-0.05-directional-ideal,P5/confirm vs P5/no-confirm,independent_ratio,ratio,paired median; percentile bootstrap,1,1.0,1.0,1.0,
+6,rgg-16-8-full-0.05-directional-ideal,P5/confirm vs P5/no-confirm,dominating_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0.05-directional-ideal,P5/confirm vs P5/no-confirm,dominating_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0.05-directional-ideal,P5/confirm vs P5/no-confirm,election_slots_difference,slot,paired median; percentile bootstrap,2,4.5,1.0,8.0,
+6,rgg-16-8-full-0.05-directional-ideal,P5/confirm vs P5/no-confirm,election_slots_ratio,ratio,paired median; percentile bootstrap,2,1.425,1.05,1.8,
+6,rgg-16-8-full-0.1-directional-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.1-directional-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.1-directional-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.1-directional-ideal,P5/confirm,independent_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.1-directional-ideal,P5/confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.1-directional-ideal,P5/confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.1-directional-ideal,P5/no-confirm,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.1-directional-ideal,P5/no-confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.1-directional-ideal,P5/no-confirm,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.1-directional-ideal,P5/confirm vs P5/no-confirm,independent_difference,fraction,paired median; percentile bootstrap,2,0.5,0.0,1.0,
+6,rgg-16-8-full-0.1-directional-ideal,P5/confirm vs P5/no-confirm,independent_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+6,rgg-16-8-full-0.1-directional-ideal,P5/confirm vs P5/no-confirm,dominating_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0.1-directional-ideal,P5/confirm vs P5/no-confirm,dominating_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0.1-directional-ideal,P5/confirm vs P5/no-confirm,election_slots_difference,slot,paired median; percentile bootstrap,2,12.0,8.0,16.0,
+6,rgg-16-8-full-0.1-directional-ideal,P5/confirm vs P5/no-confirm,election_slots_ratio,ratio,paired median; percentile bootstrap,2,1.9714285714285715,1.8,2.142857142857143,
+6,rgg-16-8-full-0.2-directional-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.2-directional-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.2-directional-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.2-directional-ideal,P5/confirm,independent_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.2-directional-ideal,P5/confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.2-directional-ideal,P5/confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.2-directional-ideal,P5/no-confirm,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.2-directional-ideal,P5/no-confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.2-directional-ideal,P5/no-confirm,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.2-directional-ideal,P5/confirm vs P5/no-confirm,independent_difference,fraction,paired median; percentile bootstrap,2,0.5,0.0,1.0,
+6,rgg-16-8-full-0.2-directional-ideal,P5/confirm vs P5/no-confirm,independent_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+6,rgg-16-8-full-0.2-directional-ideal,P5/confirm vs P5/no-confirm,dominating_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0.2-directional-ideal,P5/confirm vs P5/no-confirm,dominating_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0.2-directional-ideal,P5/confirm vs P5/no-confirm,election_slots_difference,slot,paired median; percentile bootstrap,2,9.0,8.0,10.0,
+6,rgg-16-8-full-0.2-directional-ideal,P5/confirm vs P5/no-confirm,election_slots_ratio,ratio,paired median; percentile bootstrap,2,1.7571428571428571,1.7142857142857142,1.8,
+6,rgg-16-8-full-0-symmetric-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-symmetric-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-symmetric-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-symmetric-ideal,P5/confirm,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-symmetric-ideal,P5/confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-symmetric-ideal,P5/confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-symmetric-ideal,P5/no-confirm,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-symmetric-ideal,P5/no-confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-symmetric-ideal,P5/no-confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0-symmetric-ideal,P5/confirm vs P5/no-confirm,independent_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0-symmetric-ideal,P5/confirm vs P5/no-confirm,independent_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0-symmetric-ideal,P5/confirm vs P5/no-confirm,dominating_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0-symmetric-ideal,P5/confirm vs P5/no-confirm,dominating_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0-symmetric-ideal,P5/confirm vs P5/no-confirm,election_slots_difference,slot,paired median; percentile bootstrap,2,6.5,6.0,7.0,
+6,rgg-16-8-full-0-symmetric-ideal,P5/confirm vs P5/no-confirm,election_slots_ratio,ratio,paired median; percentile bootstrap,2,1.5,1.5,1.5,
+6,rgg-16-8-full-0.02-symmetric-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-symmetric-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-symmetric-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/confirm,independent_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/no-confirm,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/no-confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/no-confirm,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/confirm vs P5/no-confirm,independent_difference,fraction,paired median; percentile bootstrap,2,0.5,0.0,1.0,
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/confirm vs P5/no-confirm,independent_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/confirm vs P5/no-confirm,dominating_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/confirm vs P5/no-confirm,dominating_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/confirm vs P5/no-confirm,election_slots_difference,slot,paired median; percentile bootstrap,2,6.0,4.0,8.0,
+6,rgg-16-8-full-0.02-symmetric-ideal,P5/confirm vs P5/no-confirm,election_slots_ratio,ratio,paired median; percentile bootstrap,2,1.5,1.2,1.8,
+6,rgg-16-8-full-0.05-symmetric-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-symmetric-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-symmetric-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/confirm,independent_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/no-confirm,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/no-confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/no-confirm,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/confirm vs P5/no-confirm,independent_difference,fraction,paired median; percentile bootstrap,2,0.5,0.0,1.0,
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/confirm vs P5/no-confirm,independent_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/confirm vs P5/no-confirm,dominating_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/confirm vs P5/no-confirm,dominating_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/confirm vs P5/no-confirm,election_slots_difference,slot,paired median; percentile bootstrap,2,3.0,2.0,4.0,
+6,rgg-16-8-full-0.05-symmetric-ideal,P5/confirm vs P5/no-confirm,election_slots_ratio,ratio,paired median; percentile bootstrap,2,1.1625,1.125,1.2,
+6,rgg-16-8-full-0.1-symmetric-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.1-symmetric-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.1-symmetric-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/confirm,independent_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/confirm,valid_mis_violation,fraction,Clopper-Pearson,2,0.5,0.01257911709342499,0.9874208829065749,1
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/no-confirm,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/no-confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/no-confirm,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/confirm vs P5/no-confirm,independent_difference,fraction,paired median; percentile bootstrap,2,0.5,0.0,1.0,
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/confirm vs P5/no-confirm,independent_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/confirm vs P5/no-confirm,dominating_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/confirm vs P5/no-confirm,dominating_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/confirm vs P5/no-confirm,election_slots_difference,slot,paired median; percentile bootstrap,2,2.0,-4.0,8.0,
+6,rgg-16-8-full-0.1-symmetric-ideal,P5/confirm vs P5/no-confirm,election_slots_ratio,ratio,paired median; percentile bootstrap,2,1.125,0.75,1.5,
+6,rgg-16-8-full-0.2-symmetric-ideal,P4/M1,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.2-symmetric-ideal,P4/M1,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.2-symmetric-ideal,P4/M1,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/confirm,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/confirm,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/no-confirm,independent_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/no-confirm,dominating_violation,fraction,Clopper-Pearson,2,0.0,0,0.841886116991581,0
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/no-confirm,valid_mis_violation,fraction,Clopper-Pearson,2,1.0,0.15811388300841892,1,2
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/confirm vs P5/no-confirm,independent_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/confirm vs P5/no-confirm,independent_ratio,ratio,paired median; percentile bootstrap,0,NA,NA,NA,
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/confirm vs P5/no-confirm,dominating_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/confirm vs P5/no-confirm,dominating_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/confirm vs P5/no-confirm,election_slots_difference,slot,paired median; percentile bootstrap,2,10.0,6.0,14.0,
+6,rgg-16-8-full-0.2-symmetric-ideal,P5/confirm vs P5/no-confirm,election_slots_ratio,ratio,paired median; percentile bootstrap,2,1.4848484848484849,1.3333333333333333,1.6363636363636365,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.176152749,108.176152749,122.913996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.254677291,180.254677291,189.237831552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,339.381655778,339.381655778,344.831963874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.601152749,108.601152749,123.018996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.734677291,180.734677291,187.443039552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/bias-off,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,341.344119778,341.344119778,346.794915874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/confirm-off,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.976152749,108.976152749,123.233996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/confirm-off,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,181.054677291,181.054677291,190.252831552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/confirm-off,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,341.121655778,341.121655778,346.231963874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/maintenance-off,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,109.138440749,109.138440749,124.349068719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/maintenance-off,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,181.859253291,181.859253291,190.152583552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/maintenance-off,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,342.203943778,342.203943778,346.588787874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/rotation-off,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.818440749,108.818440749,124.029068719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/rotation-off,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,181.379253291,181.379253291,189.987583552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/rotation-off,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,341.243943778,341.243943778,345.764035874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.176152749,108.176152749,122.913996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.254677291,180.254677291,189.237831552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,339.381655778,339.381655778,344.831963874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.01,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.176152749,108.176152749,122.913996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.01,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.254677291,180.254677291,189.237831552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.01,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,339.381655778,339.381655778,344.831963874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.02,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.176152749,108.176152749,122.913996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.02,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.254677291,180.254677291,189.237831552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.02,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,339.381655778,339.381655778,344.831963874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.05,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.496152749,108.496152749,122.913996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.05,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.734677291,180.734677291,189.237831552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.05,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,339.381655778,339.381655778,345.244915874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.1,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.496152749,108.496152749,122.913996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.1,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.734677291,180.734677291,189.237831552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.1,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,339.381655778,339.381655778,345.084915874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.2,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.496152749,108.496152749,121.416708719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.2,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.734677291,180.734677291,189.242583552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/floor-0.2,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,340.402367778,340.402367778,345.399915874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-0.5-0.7,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,224.241313498,224.241313498,254.272425437,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-0.5-0.7,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,369.492650581,369.492650581,386.844239103,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-0.5-0.7,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,696.466751556,696.466751556,705.506711748,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-0.7,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,217.845833498,217.845833498,246.921729437,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-0.7,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,356.957514581,356.957514581,376.852759103,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-0.7,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,677.556439556,677.556439556,687.317799748,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-0.5-1,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,224.121313498,224.121313498,254.272425437,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-0.5-1,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,369.372650581,369.372650581,386.724239103,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-0.5-1,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,696.346751556,696.346751556,705.386711748,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,214.605833498,214.605833498,244.041729437,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,350.717514581,350.717514581,372.412759103,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,668.316439556,668.316439556,682.787799748,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-0.5-1.3,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,224.001313498,224.001313498,254.272425437,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-0.5-1.3,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,369.252650581,369.252650581,386.604239103,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-0.5-1.3,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,696.226751556,696.226751556,705.266711748,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1.3,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,211.365833498,211.365833498,240.681729437,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1.3,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,344.957514581,344.957514581,367.101451485,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1.3,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,659.076439556,659.076439556,677.632583748,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-1-0.7,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,112.140656749,112.140656749,127.136212719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-1-0.7,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,184.766325291,184.766325291,193.542119552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-1-0.7,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,348.353375778,348.353375778,352.773355874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-0.7,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,109.676152749,109.676152749,124.273996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-0.7,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,181.934677291,181.934677291,190.677831552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-0.7,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,341.279367778,341.279367778,347.356963874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-1-1,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,112.080656749,112.080656749,127.136212719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-1-1,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,184.706325291,184.706325291,193.542119552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-1-1,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,348.353375778,348.353375778,352.713355874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,108.176152749,108.176152749,122.913996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,180.254677291,180.254677291,189.237831552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,339.381655778,339.381655778,344.831963874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-1-1.3,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,112.020656749,112.020656749,127.136212719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-1-1.3,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,184.646325291,184.646325291,193.542119552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-1-1.3,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,348.353375778,348.353375778,352.653355874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1.3,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,106.676152749,106.676152749,121.353996719,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1.3,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,178.579605291,178.579605291,187.352903552,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1.3,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,337.281655778,337.281655778,342.371963874,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-2-0.7,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,56.0903283745,56.0903283745,63.5681063593,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-2-0.7,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,92.4031626453,92.4031626453,96.7710597758,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-2-0.7,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,174.176687889,174.176687889,176.406677937,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-0.7,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,55.3732483745,55.3732483745,62.8498263593,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-0.7,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,91.5978026453,91.5978026453,95.9271797758,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-0.7,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,173.368407889,173.368407889,175.173157937,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-2-1,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,56.0603283745,56.0603283745,63.5681063593,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-2-1,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,92.3731626453,92.3731626453,96.7710597758,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-2-1,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,174.176687889,174.176687889,176.376677937,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,54.6532483745,54.6532483745,62.0168265437,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,90.8178026453,90.8178026453,95.2672597758,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,172.350647889,172.350647889,174.183157937,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-2-1.3,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,56.0303283745,56.0303283745,63.5681063593,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-2-1.3,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,92.3431626453,92.3431626453,96.7710597758,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P2/current-2-1.3,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,174.176687889,174.176687889,176.346677937,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1.3,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,53.9332483745,53.9332483745,61.2920663593,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1.3,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,90.0378026453,90.0378026453,94.6072597758,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1.3,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,171.450647889,171.450647889,173.163157937,2
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/bias-off,fnd_s_difference,s,paired median; percentile bootstrap,2,-0.26500000000000057,-0.42499999999999716,-0.10500000000000398,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/bias-off,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.997616535497495,0.9960865977087531,0.9991464732862368,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/bias-off,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.015625,0.0,0.03125,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/bias-off,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.1093750000001092,1.0,1.2187500000002187,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/bias-off,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,-0.6709104683249998,-1.3418209366499996,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/bias-off,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,0.9102564102566161,0.8205128205132322,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/confirm-off,fnd_s_difference,s,paired median; percentile bootstrap,2,-0.5600000000000023,-0.7999999999999972,-0.3200000000000074,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/confirm-off,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9950311291591767,0.9926589443670066,0.9974033139513467,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/confirm-off,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/confirm-off,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/confirm-off,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/confirm-off,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/maintenance-off,fnd_s_difference,s,paired median; percentile bootstrap,2,-1.198680000000003,-1.4350720000000052,-0.9622880000000009,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/maintenance-off,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9898210974342359,0.9884593265170089,0.9911828683514629,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/maintenance-off,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.053571428571700004,-0.09821428571440001,-0.008928571428999998,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/maintenance-off,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.6861360718858089,0.4210526315787612,0.9512195121928566,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/maintenance-off,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,4.486546807655,0.2992213935399999,8.67387222177,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/maintenance-off,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.7131410256423578,1.0512820512821393,2.375000000002576,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/rotation-off,fnd_s_difference,s,paired median; percentile bootstrap,2,-0.8786800000000028,-1.1150719999999978,-0.6422880000000077,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/rotation-off,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9925536047517509,0.9910095914488699,0.9940976180546319,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/rotation-off,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.053571428571700004,-0.09821428571440001,-0.008928571428999998,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/rotation-off,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.6861360718858089,0.4210526315787612,0.9512195121928566,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/rotation-off,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,4.486546807655,0.2992213935399999,8.67387222177,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/rotation-off,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.7131410256423578,1.0512820512821393,2.375000000002576,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0,fnd_s_difference,s,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.01,fnd_s_difference,s,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.01,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.01,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.01,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.01,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.01,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.02,fnd_s_difference,s,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.02,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.02,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.02,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.02,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.02,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.05,fnd_s_difference,s,paired median; percentile bootstrap,2,-0.1600000000000037,-0.3200000000000074,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.05,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9985252933311823,0.9970505866623648,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.05,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.015625,0.0,0.03125,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.05,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.1093750000001092,1.0,1.2187500000002187,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.05,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,-0.6709104683249998,-1.3418209366499996,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.05,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,0.9102564102566161,0.8205128205132322,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.1,fnd_s_difference,s,paired median; percentile bootstrap,2,-0.1600000000000037,-0.3200000000000074,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.1,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9985252933311823,0.9970505866623648,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.1,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.015625,0.0,0.03125,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.1,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.1093750000001092,1.0,1.2187500000002187,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.1,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,-0.6709104683249998,-1.3418209366499996,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.1,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,0.9102564102566161,0.8205128205132322,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.2,fnd_s_difference,s,paired median; percentile bootstrap,2,0.5886439999999951,-0.3200000000000074,1.4972879999999975,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.2,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.0046911992258367,0.9970505866623648,1.0123318117893085,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.2,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.013392857142700006,-0.05803571428540001,0.03125,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.2,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.8852370689663458,0.5517241379324728,1.2187500000002187,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.2,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,2.68715605014,-1.3418209366499996,6.71613303693,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/floor-0.2,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.316506410258393,0.8205128205132322,1.8125000000035536,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-0.7,fnd_s_difference,s,paired median; percentile bootstrap,2,-123.71179473350003,-131.35842871800003,-116.06516074900001,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-0.7,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.48290223459829934,0.48240955719323686,0.4833949120033618,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-0.7,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0691964285713,0.066964285714,0.0714285714286,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-0.7,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,1.6249999999965,1.6249999999965,1.6249999999965,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-0.7,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-3.833774104719999,-3.833774104719999,-3.833774104719999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-0.7,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.6153846153849242,0.6153846153849242,0.6153846153849242,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-0.7,fnd_s_difference,s,paired median; percentile bootstrap,2,-116.8387067335,-124.00773271800001,-109.669680749,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-0.7,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.4971786552832952,0.4965720528687235,0.4977852576978668,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-0.7,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.22321428571420004,-0.25892857142840003,-0.18750000000000003,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-0.7,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.3488488488488364,0.2162162162163962,0.48148148148127656,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-0.7,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,7.46168663214,3.18061259059,11.74276067369,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-0.7,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,3.350961538463289,2.076923076925421,4.625000000001157,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1,fnd_s_difference,s,paired median; percentile bootstrap,2,-123.65179473350003,-131.35842871800003,-115.94516074900001,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.4830313815008399,0.48266785099831805,0.4833949120033618,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0691964285713,0.066964285714,0.0714285714286,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,1.6249999999965,1.6249999999965,1.6249999999965,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-3.833774104719999,-3.833774104719999,-3.833774104719999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.6153846153849242,0.6153846153849242,0.6153846153849242,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1,fnd_s_difference,s,paired median; percentile bootstrap,2,-113.7787067335,-121.12773271799999,-106.42968074900001,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.5038643869073477,0.503659751152233,0.5040690226624623,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.22321428571420004,-0.25892857142840003,-0.18750000000000003,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.3488488488488364,0.2162162162163962,0.48148148148127656,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,7.46168663214,3.18061259059,11.74276067369,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,3.350961538463289,2.076923076925421,4.625000000001157,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1.3,fnd_s_difference,s,paired median; percentile bootstrap,2,-123.59179473350002,-131.35842871800003,-115.825160749,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1.3,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.4831606667742504,0.48292642154513904,0.4833949120033618,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1.3,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0691964285713,0.066964285714,0.0714285714286,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1.3,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,1.6249999999965,1.6249999999965,1.6249999999965,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1.3,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-3.833774104719999,-3.833774104719999,-3.833774104719999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-0.5-1.3,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.6153846153849242,0.6153846153849242,0.6153846153849242,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1.3,fnd_s_difference,s,paired median; percentile bootstrap,2,-110.4787067335,-117.767732718,-103.189680749,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1.3,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.5112434238686487,0.5106910150866834,0.5117958326506142,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1.3,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.22098214285720003,-0.25892857142840003,-0.183035714286,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1.3,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.35185810810790064,0.2162162162163962,0.487499999999405,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1.3,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,7.443227719785,3.1436947658800003,11.74276067369,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-0.5-1.3,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,3.3381410256434907,2.051282051285824,4.625000000001157,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-0.7,fnd_s_difference,s,paired median; percentile bootstrap,2,-4.093360000000004,-4.222216000000003,-3.964504000000005,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-0.7,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9657184326810586,0.9646470413591959,0.9667898240029215,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-0.7,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.08482142857135,0.0714285714286,0.09821428571409999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-0.7,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,2.2941176470556455,2.2941176470556455,2.2941176470556455,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-0.7,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-7.938167558039999,-7.938167558039999,-7.938167558039999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-0.7,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.43589743589678,0.43589743589678,0.43589743589678,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-0.7,fnd_s_difference,s,paired median; percentile bootstrap,2,-1.4299999999999997,-1.5,-1.3599999999999994,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-0.7,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9876899054905732,0.9863233714676988,0.9890564395134476,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-0.7,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-0.7,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-0.7,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-0.7,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1,fnd_s_difference,s,paired median; percentile bootstrap,2,-4.063360000000003,-4.222216000000003,-3.904504000000003,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9659766343376174,0.9651634446723133,0.9667898240029215,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.08482142857135,0.0714285714286,0.09821428571409999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,2.2941176470556455,2.2941176470556455,2.2941176470556455,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-7.938167558039999,-7.938167558039999,-7.938167558039999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.43589743589678,0.43589743589678,0.43589743589678,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1,fnd_s_difference,s,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,0.0,0.0,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.0,1.0,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1.3,fnd_s_difference,s,paired median; percentile bootstrap,2,-4.033360000000002,-4.222216000000003,-3.8445040000000006,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1.3,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9662351125877945,0.9656804011726675,0.9667898240029215,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1.3,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.08482142857135,0.0714285714286,0.09821428571409999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1.3,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,2.2941176470556455,2.2941176470556455,2.2941176470556455,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1.3,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-7.938167558039999,-7.938167558039999,-7.938167558039999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-1-1.3,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.43589743589678,0.43589743589678,0.43589743589678,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1.3,fnd_s_difference,s,paired median; percentile bootstrap,2,1.5300000000000011,1.5,1.5600000000000023,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1.3,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.0134581015646975,1.0128549536247433,1.0140612495046515,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1.3,service_fraction_difference,fraction,paired median; percentile bootstrap,2,-0.017857142857200012,-0.040178571428400006,0.0044642857139999825,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1.3,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,0.8331578947365263,0.6400000000010752,1.0263157894719777,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1.3,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,2.61607469336,-0.16142206756000022,5.39357145428,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-1-1.3,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,1.268429487181687,0.9743589743601148,1.5625000000032592,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-0.7,fnd_s_difference,s,paired median; percentile bootstrap,2,55.7158573671,52.0858243745,59.34589035969999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-0.7,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.9310929033776598,1.9286061587433934,1.9335796480119263,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-0.7,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.10491071428564999,0.0714285714286,0.1383928571427,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-0.7,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,4.87499999999405,4.87499999999405,4.87499999999405,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-0.7,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-23.769399449239998,-23.769399449239998,-23.769399449239998,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-0.7,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.20512820512858243,0.20512820512858243,0.20512820512858243,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-0.7,fnd_s_difference,s,paired median; percentile bootstrap,2,56.433537367099994,52.802904374499995,60.06417035969999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-0.7,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.9546295353331824,1.9535814842825137,1.9556775863838514,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-0.7,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.055803571428499996,0.0,0.11160714285699999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-0.7,service_fraction_ratio,ratio,paired median; percentile bootstrap,2,1.892857142856,1.0,2.785714285712,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-0.7,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,2,-5.47682014962,-10.95364029924,0.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-0.7,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,2,0.6794871794869094,0.35897435897381874,1.0,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1,fnd_s_difference,s,paired median; percentile bootstrap,2,55.73085736709999,52.115824374499994,59.34589035969999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.9316089383924369,1.9296382287729474,1.9335796480119263,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.10491071428564999,0.0714285714286,0.1383928571427,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,4.87499999999405,4.87499999999405,4.87499999999405,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-23.769399449239998,-23.769399449239998,-23.769399449239998,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.20512820512858243,0.20512820512858243,0.20512820512858243,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1,fnd_s_difference,s,paired median; percentile bootstrap,2,57.210037274899996,53.522904374499994,60.8971701753,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.9806319125847343,1.9793178990523206,1.9819459261171477,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0915178571428,0.0714285714286,0.11160714285699999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,2.785714285712,2.785714285712,2.785714285712,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-10.95364029924,-10.95364029924,-10.95364029924,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.35897435897381874,0.35897435897381874,0.35897435897381874,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1.3,fnd_s_difference,s,paired median; percentile bootstrap,2,55.745857367099994,52.145824374499995,59.34589035969999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1.3,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,1.9321255260025993,1.9306714039932722,1.9335796480119263,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1.3,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.10491071428564999,0.0714285714286,0.1383928571427,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1.3,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,4.87499999999405,4.87499999999405,4.87499999999405,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1.3,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-23.769399449239998,-23.769399449239998,-23.769399449239998,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P2/current-2-1.3,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.20512820512858243,0.20512820512858243,0.20512820512858243,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1.3,fnd_s_difference,s,paired median; percentile bootstrap,2,57.932417367099994,54.24290437449999,61.621930359699995,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1.3,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,2.0055616530506244,2.0053818384661124,2.005741467635137,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1.3,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.0915178571428,0.0714285714286,0.11160714285699999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1.3,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,2.785714285712,2.785714285712,2.785714285712,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1.3,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-10.95364029924,-10.95364029924,-10.95364029924,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/primary vs P5/current-2-1.3,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.35897435897381874,0.35897435897381874,0.35897435897381874,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-0.7 vs P2/current-0.5-0.7,fnd_s_difference,s,paired median; percentile bootstrap,2,-6.87308800000001,-7.350695999999999,-6.3954800000000205,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-0.7 vs P2/current-0.5-0.7,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9712853663636726,0.9710912577824085,0.9714794749449367,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-0.7 vs P2/current-0.5-0.7,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.29241071428550003,0.25446428571400004,0.330357142857,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-0.7 vs P2/current-0.5-0.7,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,3.374999999994167,3.374999999994167,3.374999999994167,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-0.7 vs P2/current-0.5-0.7,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-7.014386695309999,-7.014386695309999,-7.014386695309999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-0.7 vs P2/current-0.5-0.7,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.29629629629611054,0.29629629629611054,0.29629629629611054,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1 vs P2/current-0.5-1,fnd_s_difference,s,paired median; percentile bootstrap,2,-9.87308800000001,-10.230696000000023,-9.515479999999997,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1 vs P2/current-0.5-1,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9586539977159914,0.9575431722602102,0.9597648231717724,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1 vs P2/current-0.5-1,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.29241071428550003,0.25446428571400004,0.330357142857,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1 vs P2/current-0.5-1,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,3.374999999994167,3.374999999994167,3.374999999994167,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1 vs P2/current-0.5-1,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-7.014386695309999,-7.014386695309999,-7.014386695309999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1 vs P2/current-0.5-1,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.29629629629611054,0.29629629629611054,0.29629629629611054,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1.3 vs P2/current-0.5-1.3,fnd_s_difference,s,paired median; percentile bootstrap,2,-13.113088000000005,-13.590696000000008,-12.635480000000001,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1.3 vs P2/current-0.5-1.3,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9450712936847638,0.943591937910164,0.9465506494593637,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1.3 vs P2/current-0.5-1.3,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.2901785714285,0.25,0.330357142857,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1.3 vs P2/current-0.5-1.3,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,3.333333333330222,3.333333333330222,3.333333333330222,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1.3 vs P2/current-0.5-1.3,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-6.977468870599999,-6.977468870599999,-6.977468870599999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-0.5-1.3 vs P2/current-0.5-1.3,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.2999999999995987,0.2999999999995987,0.2999999999995987,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-0.7 vs P2/current-1-0.7,fnd_s_difference,s,paired median; percentile bootstrap,2,-2.6633600000000044,-2.8622160000000036,-2.464504000000005,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-0.7 vs P2/current-1-0.7,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9777550561200394,0.9774870122462579,0.9780230999938211,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-0.7 vs P2/current-1-0.7,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.08482142857135,0.0714285714286,0.09821428571409999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-0.7 vs P2/current-1-0.7,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,2.2941176470556455,2.2941176470556455,2.2941176470556455,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-0.7 vs P2/current-1-0.7,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-7.938167558039999,-7.938167558039999,-7.938167558039999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-0.7 vs P2/current-1-0.7,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.43589743589678,0.43589743589678,0.43589743589678,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1 vs P2/current-1-1,fnd_s_difference,s,paired median; percentile bootstrap,2,-4.063360000000003,-4.222216000000003,-3.904504000000003,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1 vs P2/current-1-1,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9659766343376174,0.9651634446723133,0.9667898240029215,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1 vs P2/current-1-1,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.08482142857135,0.0714285714286,0.09821428571409999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1 vs P2/current-1-1,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,2.2941176470556455,2.2941176470556455,2.2941176470556455,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1 vs P2/current-1-1,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-7.938167558039999,-7.938167558039999,-7.938167558039999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1 vs P2/current-1-1,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.43589743589678,0.43589743589678,0.43589743589678,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1.3 vs P2/current-1-1.3,fnd_s_difference,s,paired median; percentile bootstrap,2,-5.563360000000003,-5.782216000000005,-5.344504000000001,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1.3 vs P2/current-1-1.3,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9534047667654202,0.9522900136893929,0.9545195198414473,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1.3 vs P2/current-1-1.3,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.10267857142855,0.0937500000001,0.111607142857,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1.3 vs P2/current-1-1.3,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,2.235294117647679,2.235294117647679,2.235294117647679,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1.3 vs P2/current-1-1.3,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-7.776745490479999,-7.776745490479999,-7.776745490479999,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-1-1.3 vs P2/current-1-1.3,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.4473684210514348,0.4473684210514348,0.4473684210514348,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-0.7 vs P2/current-2-0.7,fnd_s_difference,s,paired median; percentile bootstrap,2,-0.7176799999999979,-0.71828,-0.7170799999999957,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-0.7 vs P2/current-2-0.7,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9879581221357612,0.9872156212883575,0.988700622983165,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-0.7 vs P2/current-2-0.7,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.049107142857149996,0.0267857142857,0.0714285714286,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-0.7 vs P2/current-2-0.7,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,1.7499999999993001,1.7499999999993001,1.7499999999993001,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-0.7 vs P2/current-2-0.7,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-12.815759149999998,-12.815759149999998,-12.815759149999998,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-0.7 vs P2/current-2-0.7,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.5714285714304824,0.5714285714304824,0.5714285714304824,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1 vs P2/current-2-1,fnd_s_difference,s,paired median; percentile bootstrap,2,-1.4791799078000025,-1.5512798156000045,-1.4070800000000006,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1 vs P2/current-2-1,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.975248590547849,0.9749006108098355,0.9755965702858623,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1 vs P2/current-2-1,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.01339285714285,0.0,0.0267857142857,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1 vs P2/current-2-1,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,1.7499999999993001,1.7499999999993001,1.7499999999993001,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1 vs P2/current-2-1,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-12.815759149999998,-12.815759149999998,-12.815759149999998,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1 vs P2/current-2-1,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.5714285714304824,0.5714285714304824,0.5714285714304824,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1.3 vs P2/current-2-1.3,fnd_s_difference,s,paired median; percentile bootstrap,2,-2.18656,-2.276040000000002,-2.0970799999999983,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1.3 vs P2/current-2-1.3,fnd_s_ratio,ratio,paired median; percentile bootstrap,2,0.9633838326380015,0.9625724128192973,0.9641952524567059,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1.3 vs P2/current-2-1.3,service_fraction_difference,fraction,paired median; percentile bootstrap,2,0.01339285714285,0.0,0.0267857142857,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1.3 vs P2/current-2-1.3,service_fraction_ratio,ratio,paired median; percentile bootstrap,1,1.7499999999993001,1.7499999999993001,1.7499999999993001,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1.3 vs P2/current-2-1.3,joules_per_delivered_difference,J/report,paired median; percentile bootstrap,1,-12.815759149999998,-12.815759149999998,-12.815759149999998,
+7,rgg-16-8-heterogeneous-0-directional-ideal,P5/current-2-1.3 vs P2/current-2-1.3,joules_per_delivered_ratio,ratio,paired median; percentile bootstrap,1,0.5714285714304824,0.5714285714304824,0.5714285714304824,
+7,rgg-16-8-heterogeneous-0-directional-emulated,P5/half-duplex,fnd_median,s,Kaplan-Meier; deployment bootstrap,2,97.4560807489,97.4560807489,114.268996719,2
+7,rgg-16-8-heterogeneous-0-directional-emulated,P5/half-duplex,hnd_median,s,Kaplan-Meier; deployment bootstrap,2,169.694533291,169.694533291,174.807903552,2
+7,rgg-16-8-heterogeneous-0-directional-emulated,P5/half-duplex,lnd_median,s,Kaplan-Meier; deployment bootstrap,2,322.413463156,322.413463156,325.161655778,2
